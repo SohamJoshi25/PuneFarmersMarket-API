@@ -61,15 +61,12 @@ def generateData(link):
                     continue
 
                 row_data = []
-                isvalid = True
 
                 for idx,td in enumerate(tds):
                     strong_tag = td.find("strong")
                     text = strong_tag.get_text(strip=True) if strong_tag else td.get_text(strip=True)
 
-
                     if not text:
-                        isvalid = False
                         break
 
                     if(idx == 1):
@@ -84,12 +81,12 @@ def generateData(link):
                         else:
                             row_data.append(text)
 
-                    elif (idx >= 4):
+                    elif (idx == 4 or idx == 5):
                         row_data.append(text.split(" ")[1].split("/")[0])
                     else:
                         row_data.append(text)
 
-                    if len(row_data) == 6 and isvalid:
+                    if len(row_data) == 6:
                         writer.writerow(row_data)
                         row_count += 1
 

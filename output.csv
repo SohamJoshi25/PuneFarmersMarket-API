@@ -1,4 +1,4 @@
-Code No,Item,Quantity,Arrival,Min,Max
+Code No,Item,Unit,Quantity,Min,Max
 1001,Onion,Quintal,7266,700,1700
 1002,Potato,Quintal,5342,1200,2100
 1003,Garlic,Quintal,824,3500,10000
