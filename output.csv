@@ -1,0 +1,2028 @@
+Code No,Item,Quantity,Arrival,Min,Max
+1001,Onion,Quintal,7266,700,1700
+1002,Potato,Quintal,5342,1200,2100
+1003,Garlic,Quintal,824,3500,10000
+1004,Ginger,Quintal,260,1000,2500
+2001,Ladyfinger,Quintal,178,1200,5000
+2002,Cluster Beans,Quintal,128,3000,7000
+2003,Tomato,Quintal,1604,500,1200
+2004,Peas,Quintal,193,5000,7500
+2005,Ridge Gourd,Quintal,190,2000,3500
+2006,Tinda,Quintal,27,2000,3000
+2007,Green Chilli,Quintal,675,2500,5000
+2008,Bottle Gourd,Quintal,118,1000,2000
+2010,Cucumber,Quintal,425,1000,2000
+2011,Bitter Gourd,Quintal,128,1200,3000
+2012,Yam,Quintal,159,500,1500
+2013,Carrot,Quintal,582,1000,2000
+2014,Snake Gourd,Quintal,7,2500,4000
+2015,Pointed Gourd,Quintal,3,2500,3000
+2016,Cauliflower,Quintal,723,500,1200
+2017,Cabbage,Quintal,707,300,800
+2018,Brinjal,Quintal,204,1000,3000
+2019,Pumpkin,Quintal,247,2000,3000
+2020,Elephant Foot Yam,Quintal,9,2000,5000
+2021,Ivy Gourd,Quintal,26,2000,4000
+2022,Beetroot,Quintal,211,700,1600
+2023,Ash Gourd,Quintal,85,1000,3000
+2026,Hyacinth Beans,Quintal,14,3000,5000
+2027,Drumstick,Quintal,172,1000,3000
+2028,Raw Mango,Quintal,314,1500,5000
+2029,Chow Chow,Quintal,9,1000,3000
+2032,Amaranth Leaves,Quintal,23,1000,3000
+2033,Taro,Quintal,163,2000,3000
+2035,Pointed Gourd,Quintal,30,2500,5000
+2036,Zucchini,Quintal,16,1600,3000
+2037,Curry Leaves,Quintal,41,3000,5000
+3023,Red and Yellow Pumpkin,Quintal,18,2000,4000
+3024,Basil,Quintal,1,3500,4000
+3025,Broccoli,Quintal,23,2000,3000
+3026,Bok Choy,Quintal,1,2000,2500
+3028,Chinese Cabbage,Quintal,1,2000,2500
+3029,Red Cabbage,Quintal,2,1500,2000
+3031,Baby Corn,Quintal,2,4000,5000
+3032,Zucchini,Quintal,7,1500,2000
+3034,Lettuce,Quintal,1,300,2500
+3035,Celery,Quintal,4,1000,4000
+3036,Mushroom,Quintal,6,10000,12000
+3037,Lotus Root,Quintal,3,4500,5000
+3041,Chinese Cucumber,Quintal,2,200,1000
+3042,Chinese Garlic,Quintal,2,5000,6000
+3001,Coriander,Per Hundred,142737,400,1000
+3002,Fenugreek,Per Hundred,32625,500,1200
+3003,Dill,Per Hundred,12600,400,800
+3004,Spring Onion,Per Hundred,10420,500,1000
+3005,Spinach,Per Hundred,12540,500,800
+3006,Radish,Per Hundred,1475,500,1200
+3007,Amaranth Leaves,Per Hundred,4520,500,700
+3009,Amaranth,Per Hundred,1900,400,800
+3011,Mint,Per Hundred,17800,200,500
+3014,Chia Seeds,Per Hundred,300,500,600
+3015,Roselle,Per Hundred,200,400,700
+3016,Chia,Per Hundred,1940,500,800
+3022,Iceberg Lettuce,Quintal,9,2000,2500
+4001,Lemon,Quintal,129,500,6000
+4002,Guava,Quintal,135,2000,5000
+4005,Jackfruit,Quintal,44,1500,2000
+4007,Pear,Quintal,17,6000,8500
+4034,Jamun,Quintal,154,5000,12000
+4038,Pineapple,Quintal,98,2600,5300
+4044,Fig,Quintal,14,5000,10000
+4054,Sapodilla,Quintal,156,1500,4000
+4059,Pomegranate - No.1,Quintal,193,2000,12000
+4063,Apple - Shimla,Quintal,256,3000,12000
+4067,Pear,Quintal,4,5500,10000
+4074,Karonda,Quintal,1696,500,1000
+4081,Amla,Quintal,7,2500,3000
+4086,Banana,Quintal,16,500,2000
+4088,Sweet Lime,Quintal,269,3700,6600
+4102,Papaya,Quintal,168,500,2000
+4142,Grapes - Tasgaon,Quintal,517,2000,11000
+5003,Rice - Basmati,Quintal,43,7200,12000
+5004,Rice - Basmati Dubar,Quintal,791,5500,6600
+5005,Rice - Mogara,Quintal,545,4500,6000
+5006,Rice Flakes,Quintal,625,3500,4000
+5007,Rice - Ambemohar,Quintal,45,6200,8200
+5008,Rice - Kolam,Quintal,677,4400,6800
+5010,Rice - Dass,Quintal,684,3400,3900
+5011,Rice - Ukada,Quintal,402,3300,4400
+5012,Rice - Masuri,Quintal,422,3300,3800
+5013,Rice - Indrayani,Quintal,108,4500,5800
+5015,Wheat - Lokwan,Quintal,2593,3200,3800
+5017,Wheat - Gujarat Vinat,Quintal,674,3400,4200
+5018,Wheat - Gujarat Tukdi,Quintal,470,3500,4500
+5019,Wheat - Sinhor,Quintal,442,3500,5800
+5021,Sorghum - Maldandi No.1,Quintal,746,4600,5000
+5022,Sorghum - Maldandi No.2,Quintal,437,4400,4800
+5024,Sorghum - Vasant No.9,Quintal,546,4200,4500
+5025,Sorghum - Duri,Quintal,413,4000,4600
+5026,Pearl Millet - Gowran,Quintal,556,2700,2800
+5027,Pearl Millet - Hybrid,Quintal,380,2800,3000
+5028,Pearl Millet - Mahico No.910,Quintal,397,2900,3000
+5030,Peas - Green,Quintal,40,10200,11600
+5031,Peas - White,Quintal,36,4500,5500
+5033,Lentil,Quintal,45,6900,7300
+5035,Coriander - Indore,Quintal,2,11000,13000
+5036,Coriander - Gowran,Quintal,3,10000,12000
+5037,Chickpeas - Chafa,Quintal,42,7400,8300
+5038,Chickpeas - Hybrid,Quintal,38,7000,8200
+5041,Black Gram,Quintal,3,9200,9800
+5043,Maize - Red,Quintal,2,2500,2600
+5045,Tamarind - Old,Quintal,3,6000,7000
+5046,Tamarind - New,Quintal,3,9000,11000
+5047,Peanut - Gunguru,Quintal,790,9400,9900
+5048,Peanut - Jara,Quintal,325,9700,11000
+5049,Peanut - Spanish,Quintal,435,10200,11800
+5050,Turmeric - Rajapuri,Quintal,2,14000,20000
+5054,Green Gram,Quintal,40,9000,9800
+5057,Horse Gram,Quintal,6,5500,6500
+5058,Cowpea,Quintal,4,10200,12000
+5061,Finger Millet,Quintal,3,4400,5400
+5063,Jaggery - Type 1,Quintal,331,3901,4015
+5064,Jaggery - Type 2,Quintal,190,3701,3875
+5065,Red Jaggery,Quintal,217,3561,3675
+5067,Box Jaggery,Quintal,266,3900,4400
+5068,Red Chilli - Byadgi,Quintal,15,16000,20000
+5069,Red Chilli - Guntur,Quintal,12,15000,18000
+6009,Dates,10 Kg,1510,400,1300
+6011,Grated Coconut,25 Kg,1647,2850,2950
+6018,Amaranth,50 Kg,1262,6500,7500
+7001,Jasmine,1 Kg,910,400,600
+7002,Marigold,1 Kg,120,200,300
+7003,Jasmine,1 Kg,4,500,750
+7005,Tube Rose,1 Kg,4080,100,150
+7006,Marigold,1 Kg,30330,12,18
+7007,Holy Basil,1 Kg,1890,12,18
+3023,Red and Yellow Pumpkin,Quintal,25,3500,4000
+3024,Basil,Quintal,2,2500,3000
+3025,Broccoli,Quintal,31,3000,4000
+3026,Bok Choy,Quintal,2,2000,2500
+3028,Chinese Cabbage,Quintal,3,2000,2500
+3029,Red Cabbage,Quintal,7,1500,2000
+3031,Baby Corn,Quintal,4,3500,4000
+3032,Zucchini,Quintal,10,1500,2000
+3033,Cherry Tomato,Quintal,1,2500,3000
+3034,Lettuce,Quintal,1,300,2000
+3035,Celery,Quintal,8,1000,3000
+3037,Lotus Root,Quintal,2,4500,5000
+3041,Chinese Cucumber,Quintal,7,200,1000
+3042,Chinese Garlic,Quintal,1,5000,6000
+3022,Iceberg Lettuce,Quintal,15,2000,2500
+5003,Rice - Basmati,Quintal,42,7200,12200
+5004,Rice - Basmati Dubar,Quintal,789,5500,6800
+5005,Rice - Mogara,Quintal,542,4400,6200
+5006,Rice Flakes,Quintal,627,3400,4200
+5007,Rice - Ambemohar,Quintal,45,6200,8400
+5008,Rice - Kolam,Quintal,678,4200,6800
+5010,Rice - Dass,Quintal,681,3500,4000
+5011,Rice - Ukada,Quintal,400,3200,4600
+5012,Rice - Masuri,Quintal,425,3300,4000
+5013,Rice - Indrayani,Quintal,106,4500,6000
+5015,Wheat - Lokwan,Quintal,2590,3000,3800
+5017,Wheat - Gujarat Vinat,Quintal,671,3200,4200
+5018,Wheat - Gujarat Tukdi,Quintal,469,3500,4500
+5019,Wheat - Sinhor,Quintal,439,3600,5800
+5021,Sorghum - Maldandi No.1,Quintal,744,4700,5000
+5022,Sorghum - Maldandi No.2,Quintal,435,4500,4800
+5024,Sorghum - Vasant No.9,Quintal,547,4300,4500
+5025,Sorghum - Duri,Quintal,410,4200,4600
+5026,Pearl Millet - Gowran,Quintal,553,2750,2850
+5027,Pearl Millet - Hybrid,Quintal,381,2800,2900
+5028,Pearl Millet - Mahico No.910,Quintal,394,2900,3100
+5030,Peas - Green,Quintal,39,10200,11500
+5031,Peas - White,Quintal,34,4400,5600
+5033,Lentil,Quintal,42,6800,7200
+5035,Coriander - Indore,Quintal,3,10000,13000
+5036,Coriander - Gowran,Quintal,4,9000,10000
+5037,Chickpeas - Chafa,Quintal,40,7300,8200
+5038,Chickpeas - Hybrid,Quintal,39,7000,8000
+5041,Black Gram,Quintal,4,9000,9800
+5043,Maize - Red,Quintal,2,2400,2500
+5045,Tamarind - Old,Quintal,3,6500,7000
+5046,Tamarind - New,Quintal,4,9500,11000
+5047,Peanut - Gunguru,Quintal,787,9500,10000
+5048,Peanut - Jara,Quintal,322,9800,12200
+5049,Peanut - Spanish,Quintal,437,10300,12000
+5050,Turmeric - Rajapuri,Quintal,2,14000,21000
+5054,Green Gram,Quintal,43,9000,9800
+5057,Horse Gram,Quintal,5,5300,6600
+5058,Cowpea,Quintal,6,10000,12000
+5061,Finger Millet,Quintal,2,4500,5200
+5063,Jaggery - Type 1,Quintal,329,3801,4001
+5064,Jaggery - Type 2,Quintal,187,3675,3775
+5065,Red Jaggery,Quintal,215,3551,3651
+5067,Box Jaggery,Quintal,268,3800,4300
+5068,Red Chilli - Byadgi,Quintal,14,16000,19000
+5069,Red Chilli - Guntur,Quintal,13,15000,18000
+6009,Dates,10 Kg,1520,300,1300
+6011,Grated Coconut,25 Kg,1645,2820,2980
+6018,Amaranth,50 Kg,1260,6500,7500
+7001,Jasmine,1 Kg,920,500,750
+7002,Marigold,1 Kg,222,200,300
+7003,Jasmine,1 Kg,8,400,600
+7005,Tube Rose,1 Kg,3899,100,150
+7006,Marigold,1 Kg,28593,20,30
+7007,Holy Basil,1 Kg,1869,20,30
+7009,Lightning,1 Kg,2879,32,48
+7011,White Chrysanthemum,1 Kg,990,80,120
+7012,Yellow Chrysanthemum,1 Kg,556,80,120
+7013,Aster,Per Hundred,3192,8,12
+7014,Galanda,Per Hundred,717,4,6
+7015,Lily,Bundle,2182,8,12
+7016,Rose,Bunch,4989,12,18
+7018,Tube Rose Stick,Bunch,455,20,30
+7020,Golden D.J.,Bunch,960,20,30
+7021,Gladiolus Plain,Bunch,354,20,30
+7022,Gladiolus Colored,Bunch,444,40,60
+7027,Tats,Bunch,91,12,18
+7028,Gypsy,Bunch,293,100,150
+7031,Gerbera,Bunch,5888,20,30
+7032,Carnation,Bunch,667,100,150
+7033,Dutch Rose,Bunch,4202,80,120
+7035,Portia Tree,Per Piece,3899,12,18
+7036,Hibiscus,Per Hundred,212,8,12
+7038,Lilium,Bunch,141,600,900
+7039,Orchid,Bunch,25,300,450
+7040,Anthurium,Bunch,61,80,120
+7041,Grass,Bunch,2273,20,30
+7042,Leaf,Bunch,3596,20,30
+1001,Onion,Quintal,10296,600,1600
+1002,Potato,Quintal,6610,1200,2000
+1003,Garlic,Quintal,1188,3000,10000
+1004,Ginger,Quintal,368,1000,2500
+2001,Ladyfinger,Quintal,268,1200,3500
+2002,Cluster Beans,Quintal,187,2000,6000
+2003,Tomato,Quintal,2093,400,1200
+2004,Peas,Quintal,293,4000,6000
+2005,Ridge Gourd,Quintal,285,3000,6000
+2006,Tinda,Quintal,99,1000,3500
+2007,Green Chilli,Quintal,700,3000,5000
+2008,Bottle Gourd,Quintal,170,1000,2000
+2010,Cucumber,Quintal,680,600,1600
+2011,Bitter Gourd,Quintal,140,1000,3000
+2012,Yam,Quintal,98,600,1200
+2013,Carrot,Quintal,668,1000,2000
+2014,Snake Gourd,Quintal,36,2000,4000
+2015,Pointed Gourd,Quintal,9,3000,3500
+2016,Cauliflower,Quintal,710,500,1100
+2017,Cabbage,Quintal,628,300,700
+2018,Brinjal,Quintal,325,1000,3000
+2019,Pumpkin,Quintal,365,1000,3000
+2020,Elephant Foot Yam,Quintal,9,1500,5000
+2021,Ivy Gourd,Quintal,46,1800,3000
+2022,Beetroot,Quintal,191,600,1400
+2023,Ash Gourd,Quintal,62,800,2000
+2024,Parwal,Quintal,12,4000,6000
+2026,Hyacinth Beans,Quintal,36,2500,4500
+2027,Drumstick,Quintal,292,1000,3500
+2028,Raw Mango,Quintal,556,2000,5000
+2029,Chow Chow,Quintal,10,1000,2500
+2032,Amaranth Leaves,Quintal,44,1000,3000
+2033,Taro,Quintal,86,2000,3000
+2035,Pointed Gourd,Quintal,27,3000,5000
+2036,Zucchini,Quintal,23,1500,2500
+2037,Curry Leaves,Quintal,47,3000,5000
+2040,Colocasia,Quintal,8,2000,4000
+3023,Red and Yellow Pumpkin,Quintal,14,2000,5000
+3024,Basil,Quintal,1,2500,3000
+3025,Broccoli,Quintal,35,2000,4000
+3026,Bok Choy,Quintal,1,2500,3000
+3029,Red Cabbage,Quintal,3,1500,2000
+3030,Avocado,Quintal,3,5000,7000
+3031,Baby Corn,Quintal,2,4000,5000
+3032,Zucchini,Quintal,9,2500,3000
+3033,Cherry Tomato,Quintal,1,2000,2500
+3034,Lettuce,Quintal,1,500,2500
+3035,Celery,Quintal,6,1000,4000
+3036,Mushroom,Quintal,5,10000,12000
+3037,Lotus Root,Quintal,4,4500,5000
+3039,Romaine Lettuce,Quintal,1,2000,2500
+3041,Chinese Cucumber,Quintal,6,200,1000
+3042,Chinese Garlic,Quintal,2,5000,6000
+3001,Coriander,Per Hundred,157300,200,1200
+3002,Fenugreek,Per Hundred,36435,400,1200
+3003,Dill,Per Hundred,11250,400,800
+3004,Spring Onion,Per Hundred,6350,400,1500
+3005,Spinach,Per Hundred,12260,400,800
+3006,Radish,Per Hundred,2090,400,1500
+3007,Amaranth Leaves,Per Hundred,3375,500,800
+3008,Mustard,Per Hundred,300,500,700
+3009,Amaranth,Per Hundred,2400,400,600
+3011,Mint,Per Hundred,16850,200,500
+3015,Roselle,Per Hundred,100,400,600
+3016,Chia,Per Hundred,880,400,1000
+3022,Iceberg Lettuce,Quintal,9,2000,3000
+4001,Lemon,Quintal,288,500,6000
+4002,Guava,Quintal,195,1000,3500
+4005,Jackfruit,Quintal,41,1500,1700
+4007,Pear,Quintal,19,5500,7500
+4027,Pomegranate,Quintal,1,2000,8000
+4034,Jamun,Quintal,304,3500,9000
+4038,Pineapple,Quintal,279,1600,5300
+4044,Fig,Quintal,35,5000,10000
+4049,Strawberry,Quintal,5,15000,25000
+4054,Sapodilla,Quintal,303,2000,4000
+4059,Pomegranate - No.1,Quintal,403,2000,15000
+4063,Apple - Shimla,Quintal,466,3000,12000
+4074,Karonda,Quintal,1604,500,1000
+4081,Amla,Quintal,14,2500,3000
+4086,Banana,Quintal,18,500,1500
+4088,Sweet Lime,Quintal,327,3000,6000
+4102,Papaya,Quintal,225,1000,2000
+4142,Grapes - Tasgaon,Quintal,676,2000,11000
+5003,Rice - Basmati,Quintal,39,6900,12200
+5004,Rice - Basmati Dubar,Quintal,785,5300,6400
+5005,Rice - Mogara,Quintal,545,4200,6000
+5006,Rice Flakes,Quintal,623,3600,4200
+5007,Rice - Ambemohar,Quintal,47,6500,8500
+5008,Rice - Kolam,Quintal,674,4100,6800
+5010,Rice - Dass,Quintal,678,3500,3900
+5011,Rice - Ukada,Quintal,403,3300,4400
+5012,Rice - Masuri,Quintal,422,3400,3800
+5013,Rice - Indrayani,Quintal,104,4600,5800
+5015,Wheat - Lokwan,Quintal,2587,3200,4000
+5017,Wheat - Gujarat Vinat,Quintal,667,3400,4200
+5018,Wheat - Gujarat Tukdi,Quintal,451,3600,4400
+5019,Wheat - Sinhor,Quintal,437,4000,5800
+5021,Sorghum - Maldandi No.1,Quintal,749,4600,5000
+5022,Sorghum - Maldandi No.2,Quintal,431,4400,4700
+5024,Sorghum - Vasant No.9,Quintal,545,4300,4500
+5025,Sorghum - Duri,Quintal,413,4200,4600
+5026,Pearl Millet - Gowran,Quintal,552,2700,2800
+5027,Pearl Millet - Hybrid,Quintal,385,2800,3000
+5028,Pearl Millet - Mahico No.910,Quintal,397,3000,3300
+5030,Peas - Green,Quintal,41,10000,11400
+5031,Peas - White,Quintal,35,4500,5400
+5033,Lentil,Quintal,44,6700,7300
+5035,Coriander - Indore,Quintal,5,11000,14000
+5036,Coriander - Gowran,Quintal,4,10000,11000
+5037,Chickpeas - Chafa,Quintal,43,7200,8000
+5038,Chickpeas - Hybrid,Quintal,43,7000,7800
+5041,Black Gram,Quintal,3,8800,9600
+5043,Maize - Red,Quintal,2,2300,2500
+5045,Tamarind - Old,Quintal,3,6000,7000
+5046,Tamarind - New,Quintal,4,9000,10000
+5047,Peanut - Gunguru,Quintal,783,9400,9800
+5048,Peanut - Jara,Quintal,325,9700,10000
+5049,Peanut - Spanish,Quintal,434,10400,11800
+5050,Turmeric - Rajapuri,Quintal,3,15000,21000
+5054,Green Gram,Quintal,42,8800,9800
+5057,Horse Gram,Quintal,6,5200,6600
+5058,Cowpea,Quintal,7,9800,12200
+5061,Finger Millet,Quintal,2,4300,5100
+5063,Jaggery - Type 1,Quintal,327,3861,4011
+5064,Jaggery - Type 2,Quintal,184,3701,3851
+5065,Red Jaggery,Quintal,217,3525,3675
+5067,Box Jaggery,Quintal,265,3900,4500
+5068,Red Chilli - Byadgi,Quintal,15,15000,19000
+5069,Red Chilli - Guntur,Quintal,11,14000,16000
+7001,Jasmine,1 Kg,914,600,800
+7002,Marigold,1 Kg,207,200,300
+7003,Jasmine,1 Kg,8,400,700
+7005,Tube Rose,1 Kg,3628,80,160
+7006,Marigold,1 Kg,26611,20,40
+7007,Holy Basil,1 Kg,1739,20,40
+7009,Lightning,1 Kg,2679,40,70
+7011,White Chrysanthemum,1 Kg,921,60,120
+7012,Yellow Chrysanthemum,1 Kg,517,60,120
+7013,Aster,Per Hundred,2970,5,15
+7014,Galanda,Per Hundred,667,6,10
+7015,Lily,Bundle,2030,5,15
+7016,Rose,Bunch,4644,10,20
+7018,Tube Rose Stick,Bunch,426,10,30
+7020,Golden D.J.,Bunch,893,10,30
+7021,Gladiolus Plain,Bunch,329,20,40
+7022,Gladiolus Colored,Bunch,414,40,80
+7027,Tats,Bunch,85,10,20
+7028,Gypsy,Bunch,273,100,200
+7031,Gerbera,Bunch,5480,30,40
+7032,Carnation,Bunch,620,80,150
+7033,Dutch Rose,Bunch,3910,60,100
+7035,Portia Tree,Per Piece,3628,6,10
+7036,Hibiscus,Per Hundred,197,6,10
+7038,Lilium,Bunch,132,600,1000
+7039,Orchid,Bunch,24,300,500
+7040,Anthurium,Bunch,5,60,100
+7041,Grass,Bunch,2115,10,30
+7042,Leaf,Bunch,3346,20,30
+1001,Onion,Quintal,11684,800,1600
+1002,Potato,Quintal,4306,1000,2000
+1003,Garlic,Quintal,859,3000,10000
+1004,Ginger,Quintal,329,1000,2500
+2001,Ladyfinger,Quintal,362,1000,4000
+2002,Cluster Beans,Quintal,167,2000,6000
+2003,Tomato,Quintal,2251,500,1000
+2004,Peas,Quintal,263,4000,6000
+2005,Ridge Gourd,Quintal,354,2000,5000
+2006,Tinda,Quintal,153,1500,3000
+2007,Green Chilli,Quintal,663,3000,5500
+2008,Bottle Gourd,Quintal,280,600,1600
+2010,Cucumber,Quintal,829,800,1600
+2011,Bitter Gourd,Quintal,148,2000,3000
+2012,Yam,Quintal,111,600,1000
+2013,Carrot,Quintal,635,1000,2000
+2014,Snake Gourd,Quintal,5,2500,4000
+2015,Pointed Gourd,Quintal,12,3000,4000
+2016,Cauliflower,Quintal,600,500,1200
+2017,Cabbage,Quintal,717,300,800
+2018,Brinjal,Quintal,398,1000,2000
+2019,Pumpkin,Quintal,412,1000,2500
+2020,Elephant Foot Yam,Quintal,10,1500,2000
+2021,Ivy Gourd,Quintal,73,1500,4000
+2022,Beetroot,Quintal,244,800,1500
+2023,Ash Gourd,Quintal,67,700,2000
+2024,Parwal,Quintal,3,4000,6000
+2026,Hyacinth Beans,Quintal,24,2000,5000
+2027,Drumstick,Quintal,410,1000,4000
+2028,Raw Mango,Quintal,362,2500,5000
+2029,Chow Chow,Quintal,11,1000,3000
+2032,Amaranth Leaves,Quintal,39,1000,3000
+2033,Taro,Quintal,100,2000,3000
+2035,Pointed Gourd,Quintal,30,2500,5000
+2036,Zucchini,Quintal,42,1000,2500
+2037,Curry Leaves,Quintal,69,3000,5000
+2040,Colocasia,Quintal,5,1600,2500
+3023,Red and Yellow Pumpkin,Quintal,20,2000,4000
+3024,Basil,Quintal,1,1500,3000
+3025,Broccoli,Quintal,30,1500,3500
+3026,Bok Choy,Quintal,1,1500,3000
+3027,Lollo Lettuce,Quintal,1,2000,2500
+3028,Chinese Cabbage,Quintal,1,2500,3000
+3029,Red Cabbage,Quintal,7,2500,3000
+3030,Avocado,Quintal,6,6000,7000
+3031,Baby Corn,Quintal,2,4000,5000
+3032,Zucchini,Quintal,8,2500,3000
+3033,Cherry Tomato,Quintal,1,2500,3000
+3035,Celery,Quintal,5,1000,5000
+3036,Mushroom,Quintal,6,10000,12000
+3037,Lotus Root,Quintal,2,4500,5000
+3041,Chinese Cucumber,Quintal,3,200,1200
+3042,Chinese Garlic,Quintal,1,4000,6000
+3001,Coriander,Per Hundred,170855,400,800
+3002,Fenugreek,Per Hundred,48975,500,1300
+3003,Dill,Per Hundred,7950,400,800
+3004,Spring Onion,Per Hundred,6985,500,1000
+3005,Spinach,Per Hundred,9870,500,800
+3006,Radish,Per Hundred,2560,500,1200
+3007,Amaranth Leaves,Per Hundred,5350,500,700
+3008,Mustard,Per Hundred,850,500,800
+3009,Amaranth,Per Hundred,2150,400,800
+3011,Mint,Per Hundred,18600,200,500
+3015,Roselle,Per Hundred,570,400,700
+3016,Chia,Per Hundred,1325,400,800
+3022,Iceberg Lettuce,Quintal,10,2000,2500
+4001,Lemon,Quintal,184,500,6000
+4002,Guava,Quintal,292,1000,5000
+4005,Jackfruit,Quintal,36,1500,2000
+4007,Pear,Quintal,14,5500,7500
+4023,Plum,Quintal,1,4000,10000
+4027,Pomegranate,Quintal,1,2000,7000
+4034,Jamun,Quintal,236,5000,9000
+4038,Pineapple,Quintal,188,3300,5000
+4044,Fig,Quintal,32,5000,10000
+4049,Strawberry,Quintal,7,10000,15000
+4054,Sapodilla,Quintal,216,2500,4500
+4059,Pomegranate - No.1,Quintal,307,2000,15000
+4063,Apple - Shimla,Quintal,300,3000,12000
+4067,Pear,Quintal,6,5500,10000
+4074,Karonda,Quintal,1617,500,1000
+4081,Amla,Quintal,26,2500,3000
+4086,Banana,Quintal,33,500,1500
+4088,Sweet Lime,Quintal,275,2500,5000
+4102,Papaya,Quintal,235,500,2000
+4142,Grapes - Tasgaon,Quintal,620,2000,10000
+5003,Rice - Basmati,Quintal,40,7200,12400
+5004,Rice - Basmati Dubar,Quintal,790,5400,6800
+5005,Rice - Mogara,Quintal,546,4500,6200
+5006,Rice Flakes,Quintal,625,3500,4000
+5007,Rice - Ambemohar,Quintal,39,6400,8400
+5008,Rice - Kolam,Quintal,677,4300,7000
+5010,Rice - Dass,Quintal,649,3500,3800
+5011,Rice - Ukada,Quintal,406,3300,4600
+5012,Rice - Masuri,Quintal,432,3400,4000
+5013,Rice - Indrayani,Quintal,104,4500,6000
+5015,Wheat - Lokwan,Quintal,2585,3200,3800
+5017,Wheat - Gujarat Vinat,Quintal,675,3300,4400
+5018,Wheat - Gujarat Tukdi,Quintal,445,3400,4600
+5019,Wheat - Sinhor,Quintal,439,3800,5800
+5021,Sorghum - Maldandi No.1,Quintal,752,4600,5000
+5022,Sorghum - Maldandi No.2,Quintal,434,4300,4800
+5024,Sorghum - Vasant No.9,Quintal,550,4100,4400
+5025,Sorghum - Duri,Quintal,416,4000,4500
+5026,Pearl Millet - Gowran,Quintal,555,2700,2800
+5027,Pearl Millet - Hybrid,Quintal,390,2800,3000
+5028,Pearl Millet - Mahico No.910,Quintal,397,3000,3200
+5030,Peas - Green,Quintal,45,10300,11500
+5031,Peas - White,Quintal,38,4500,5700
+5033,Lentil,Quintal,37,6900,7200
+5035,Coriander - Indore,Quintal,1,11000,13500
+5036,Coriander - Gowran,Quintal,2,10000,12000
+5037,Chickpeas - Chafa,Quintal,40,7300,8200
+5038,Chickpeas - Hybrid,Quintal,38,7100,8000
+5041,Black Gram,Quintal,5,9000,10000
+5043,Maize - Red,Quintal,4,2500,2700
+5045,Tamarind - Old,Quintal,3,6500,7500
+5046,Tamarind - New,Quintal,4,9000,11000
+5047,Peanut - Gunguru,Quintal,786,9600,10200
+5048,Peanut - Jara,Quintal,326,9800,10400
+5049,Peanut - Spanish,Quintal,433,10600,11800
+5050,Turmeric - Rajapuri,Quintal,3,14000,20000
+5054,Green Gram,Quintal,42,8800,9900
+5057,Horse Gram,Quintal,8,5400,6400
+5058,Cowpea,Quintal,6,10200,12200
+5061,Finger Millet,Quintal,2,4400,5000
+5063,Jaggery - Type 1,Quintal,326,3861,4051
+5064,Jaggery - Type 2,Quintal,182,3701,3851
+5065,Red Jaggery,Quintal,223,3525,3675
+5067,Box Jaggery,Quintal,270,3700,4300
+5068,Red Chilli - Byadgi,Quintal,13,16000,20000
+5069,Red Chilli - Guntur,Quintal,12,14000,18000
+6009,Dates,10 Kg,1513,500,1500
+6011,Grated Coconut,25 Kg,1640,2820,2980
+6018,Amaranth,50 Kg,1260,6500,7500
+7001,Jasmine,1 Kg,904,300,400
+7002,Marigold,1 Kg,216,200,300
+7003,Jasmine,1 Kg,8,300,400
+7005,Tube Rose,1 Kg,3783,80,150
+7006,Marigold,1 Kg,27744,10,30
+7007,Holy Basil,1 Kg,1813,20,40
+7009,Lightning,1 Kg,2793,20,60
+7011,White Chrysanthemum,1 Kg,960,40,60
+7012,Yellow Chrysanthemum,1 Kg,539,40,60
+7013,Aster,Per Hundred,3097,6,10
+7014,Galanda,Per Hundred,696,4,6
+7015,Lily,Bundle,2117,5,15
+7016,Rose,Bunch,4841,5,15
+7018,Tube Rose Stick,Bunch,441,10,20
+7020,Golden D.J.,Bunch,931,10,30
+7021,Gladiolus Plain,Bunch,343,20,30
+7022,Gladiolus Colored,Bunch,431,40,60
+7027,Tats,Bunch,88,10,20
+7028,Gypsy,Bunch,284,100,200
+7031,Gerbera,Bunch,5713,20,40
+7032,Carnation,Bunch,647,80,150
+7033,Dutch Rose,Bunch,4077,50,100
+7035,Portia Tree,Per Piece,3783,4,10
+7036,Hibiscus,Per Hundred,206,4,10
+7038,Lilium,Bunch,137,600,700
+7039,Orchid,Bunch,25,200,400
+7040,Anthurium,Bunch,59,60,100
+7041,Grass,Bunch,2205,10,30
+7042,Leaf,Bunch,3489,20,30
+1001,Onion,Quintal,11720,700,1600
+1002,Potato,Quintal,5324,1000,2000
+1003,Garlic,Quintal,808,3500,10000
+1004,Ginger,Quintal,227,1000,2500
+2001,Ladyfinger,Quintal,249,1000,3000
+2002,Cluster Beans,Quintal,289,2000,6000
+2003,Tomato,Quintal,1825,500,1000
+2004,Peas,Quintal,359,4000,6000
+2005,Ridge Gourd,Quintal,249,2000,6000
+2006,Tinda,Quintal,110,1000,3000
+2007,Green Chilli,Quintal,728,3000,6000
+2008,Bottle Gourd,Quintal,131,600,1600
+2010,Cucumber,Quintal,738,500,1400
+2011,Bitter Gourd,Quintal,173,1500,3000
+2012,Yam,Quintal,73,600,1200
+2013,Carrot,Quintal,609,1000,2000
+2014,Snake Gourd,Quintal,7,2000,4000
+2015,Pointed Gourd,Quintal,7,1000,3000
+2016,Cauliflower,Quintal,726,500,1000
+2017,Cabbage,Quintal,486,300,600
+2018,Brinjal,Quintal,369,1000,2500
+2019,Pumpkin,Quintal,422,1000,2500
+2020,Elephant Foot Yam,Quintal,6,1500,5000
+2021,Ivy Gourd,Quintal,74,1500,4000
+2022,Beetroot,Quintal,246,600,1200
+2023,Ash Gourd,Quintal,109,1000,2000
+2024,Parwal,Quintal,2,3000,5000
+2026,Hyacinth Beans,Quintal,33,3000,5000
+2027,Drumstick,Quintal,270,1000,4000
+2028,Raw Mango,Quintal,207,3000,5000
+2029,Chow Chow,Quintal,15,1000,3200
+2032,Amaranth Leaves,Quintal,31,1500,2500
+2033,Taro,Quintal,67,2000,3000
+2035,Pointed Gourd,Quintal,42,1000,4000
+2036,Zucchini,Quintal,21,1500,2500
+2037,Curry Leaves,Quintal,3,2000,5000
+2040,Colocasia,Quintal,13,1600,4000
+3023,Red and Yellow Pumpkin,Quintal,15,2000,4000
+3024,Basil,Quintal,1,2500,3000
+3025,Broccoli,Quintal,33,2000,2500
+3028,Chinese Cabbage,Quintal,1,2000,2500
+3029,Red Cabbage,Quintal,1,1000,1500
+3031,Baby Corn,Quintal,2,4000,5000
+3032,Zucchini,Quintal,6,2000,3000
+3034,Lettuce,Quintal,1,500,2500
+3035,Celery,Quintal,3,1000,4000
+3036,Mushroom,Quintal,5,10000,12000
+3037,Lotus Root,Quintal,2,4500,5000
+3041,Chinese Cucumber,Quintal,10,200,1000
+3042,Chinese Garlic,Quintal,2,5000,7000
+3001,Coriander,Per Hundred,158515,400,1000
+3002,Fenugreek,Per Hundred,46475,500,1000
+3003,Dill,Per Hundred,11525,400,800
+3004,Spring Onion,Per Hundred,10210,500,1200
+3005,Spinach,Per Hundred,12210,500,800
+3006,Radish,Per Hundred,3290,500,1500
+3007,Amaranth Leaves,Per Hundred,5850,500,700
+3008,Mustard,Per Hundred,350,400,800
+3009,Amaranth,Per Hundred,1550,400,600
+3011,Mint,Per Hundred,18750,200,500
+3015,Roselle,Per Hundred,450,400,600
+3016,Chia,Per Hundred,1600,400,1000
+3022,Iceberg Lettuce,Quintal,6,2000,3000
+4001,Lemon,Quintal,179,500,6000
+4002,Guava,Quintal,75,2000,5000
+4005,Jackfruit,Quintal,18,1500,2000
+4007,Pear,Quintal,15,5500,7500
+4023,Plum,Quintal,2,4000,10000
+4027,Pomegranate,Quintal,1,1500,7000
+4034,Jamun,Quintal,190,2500,9000
+4038,Pineapple,Quintal,70,2600,5300
+4044,Fig,Quintal,15,5000,10000
+4049,Strawberry,Quintal,385,10000,15000
+4054,Sapodilla,Quintal,54,1500,4000
+4057,Strawberry,Quintal,385,10000,15000
+4059,Pomegranate - No.1,Quintal,239,2500,15000
+4063,Apple - Shimla,Quintal,183,3000,11000
+4074,Karonda,Quintal,1604,500,1000
+4081,Amla,Quintal,27,2500,3000
+4086,Banana,Quintal,41,500,1500
+4088,Sweet Lime,Quintal,146,4000,5000
+4102,Papaya,Quintal,71,700,2000
+4142,Grapes - Tasgaon,Quintal,223,2000,10000
+5003,Rice - Basmati,Quintal,44,7000,12400
+5004,Rice - Basmati Dubar,Quintal,786,5500,6600
+5005,Rice - Mogara,Quintal,548,4400,6200
+5006,Rice Flakes,Quintal,622,3400,4000
+5007,Rice - Ambemohar,Quintal,42,6300,8400
+5008,Rice - Kolam,Quintal,679,4200,6800
+5010,Rice - Dass,Quintal,684,3600,4000
+5011,Rice - Ukada,Quintal,402,3400,4400
+5012,Rice - Masuri,Quintal,414,3500,3900
+5013,Rice - Indrayani,Quintal,100,4600,6000
+5015,Wheat - Lokwan,Quintal,2589,3000,3800
+5017,Wheat - Gujarat Vinat,Quintal,672,3200,4200
+5018,Wheat - Gujarat Tukdi,Quintal,447,3500,4500
+5019,Wheat - Sinhor,Quintal,438,4000,6000
+5021,Sorghum - Maldandi No.1,Quintal,749,4700,5200
+5022,Sorghum - Maldandi No.2,Quintal,432,4500,4900
+5024,Sorghum - Vasant No.9,Quintal,548,4200,4600
+5025,Sorghum - Duri,Quintal,418,4000,4500
+5026,Pearl Millet - Gowran,Quintal,552,2700,2900
+5027,Pearl Millet - Hybrid,Quintal,387,2900,3100
+5028,Pearl Millet - Mahico No.910,Quintal,395,3100,3300
+5030,Peas - Green,Quintal,43,10200,11400
+5031,Peas - White,Quintal,37,4300,5500
+5033,Lentil,Quintal,40,6800,7200
+5035,Coriander - Indore,Quintal,2,11000,13000
+5036,Coriander - Gowran,Quintal,3,10000,12000
+5037,Chickpeas - Chafa,Quintal,42,7200,8200
+5038,Chickpeas - Hybrid,Quintal,39,7000,8000
+5041,Black Gram,Quintal,3,9000,9800
+5043,Maize - Red,Quintal,1,2400,2600
+5045,Tamarind - Old,Quintal,3,6000,7500
+5046,Tamarind - New,Quintal,1,9000,11000
+5047,Peanut - Gunguru,Quintal,783,9500,10000
+5048,Peanut - Jara,Quintal,322,9800,10200
+5049,Peanut - Spanish,Quintal,435,10400,12000
+5050,Turmeric - Rajapuri,Quintal,1,15000,21000
+5054,Green Gram,Quintal,44,8800,10000
+5057,Horse Gram,Quintal,5,5400,6600
+5058,Cowpea,Quintal,7,10000,12200
+5061,Finger Millet,Quintal,2,4500,5000
+5063,Jaggery - Type 1,Quintal,323,3875,4015
+5064,Jaggery - Type 2,Quintal,179,3715,3875
+5065,Red Jaggery,Quintal,221,3551,3701
+5067,Box Jaggery,Quintal,267,3800,4400
+5068,Red Chilli - Byadgi,Quintal,15,15000,20000
+5069,Red Chilli - Guntur,Quintal,13,14000,17000
+6009,Dates,10 Kg,1518,500,1500
+6011,Grated Coconut,25 Kg,1644,2850,2950
+6018,Amaranth,50 Kg,1263,6300,7500
+7001,Jasmine,1 Kg,930,600,900
+7002,Marigold,1 Kg,223,300,450
+7003,Jasmine,1 Kg,8,500,750
+7005,Tube Rose,1 Kg,3918,100,150
+7006,Marigold,1 Kg,28735,20,40
+7007,Holy Basil,1 Kg,1878,20,50
+7011,White Chrysanthemum,1 Kg,995,60,100
+7012,Yellow Chrysanthemum,1 Kg,558,60,100
+7013,Aster,Per Hundred,3207,8,20
+7014,Galanda,Per Hundred,721,4,10
+7015,Lily,Bundle,2192,8,12
+7016,Rose,Bunch,5014,12,20
+7018,Tube Rose Stick,Bunch,457,10,16
+7020,Golden D.J.,Bunch,964,10,16
+7021,Gladiolus Plain,Bunch,355,10,16
+7022,Gladiolus Colored,Bunch,447,30,50
+7027,Tats,Bunch,91,12,20
+7028,Gypsy,Bunch,294,100,200
+7031,Gerbera,Bunch,5917,20,30
+7032,Carnation,Bunch,670,100,150
+7033,Dutch Rose,Bunch,4222,60,100
+7035,Portia Tree,Per Piece,3918,10,20
+7036,Hibiscus,Per Hundred,213,6,10
+7038,Lilium,Bunch,142,600,900
+7039,Orchid,Bunch,25,200,300
+7040,Anthurium,Bunch,61,60,100
+7041,Grass,Bunch,2284,20,30
+7042,Leaf,Bunch,3613,30,40
+1001,Onion,Quintal,10409,700,1700
+1002,Potato,Quintal,5366,1000,2000
+1003,Garlic,Quintal,613,3500,10000
+1004,Ginger,Quintal,224,1000,2500
+2001,Ladyfinger,Quintal,517,1200,3500
+2002,Cluster Beans,Quintal,313,2000,6000
+2003,Tomato,Quintal,2695,500,1000
+2004,Peas,Quintal,234,4500,6000
+2005,Ridge Gourd,Quintal,315,2000,6000
+2006,Tinda,Quintal,204,2000,3500
+2007,Green Chilli,Quintal,512,3000,6500
+2008,Bottle Gourd,Quintal,342,600,1800
+2010,Cucumber,Quintal,1372,800,1800
+2011,Bitter Gourd,Quintal,201,2000,2500
+2012,Yam,Quintal,136,600,1500
+2013,Carrot,Quintal,652,1000,2200
+2015,Pointed Gourd,Quintal,11,2000,2500
+2016,Cauliflower,Quintal,845,500,1000
+2017,Cabbage,Quintal,737,300,900
+2018,Brinjal,Quintal,498,1000,3000
+2019,Pumpkin,Quintal,495,1000,3000
+2020,Elephant Foot Yam,Quintal,5,2000,3000
+2021,Ivy Gourd,Quintal,73,2000,3000
+2022,Beetroot,Quintal,199,1000,1600
+2023,Ash Gourd,Quintal,158,800,2000
+2024,Parwal,Quintal,7,3500,6000
+2026,Hyacinth Beans,Quintal,35,3000,5000
+2027,Drumstick,Quintal,318,1000,5000
+2028,Raw Mango,Quintal,145,3000,6000
+2029,Chow Chow,Quintal,11,1000,3000
+2032,Amaranth Leaves,Quintal,38,1500,3000
+2033,Taro,Quintal,83,2000,3000
+2035,Pointed Gourd,Quintal,16,2000,4000
+2036,Zucchini,Quintal,48,2000,3000
+2037,Curry Leaves,Quintal,58,3000,5000
+2040,Colocasia,Quintal,11,1600,4000
+3023,Red and Yellow Pumpkin,Quintal,21,2000,4000
+3024,Basil,Quintal,1,2000,3000
+3025,Broccoli,Quintal,40,2000,3000
+3027,Lollo Lettuce,Quintal,1,2000,2500
+3028,Chinese Cabbage,Quintal,2,2000,2500
+3029,Red Cabbage,Quintal,3,1500,2000
+3031,Baby Corn,Quintal,1,3000,5000
+3032,Zucchini,Quintal,17,2000,2500
+3034,Lettuce,Quintal,1,500,2500
+3035,Celery,Quintal,3,1000,5000
+3036,Mushroom,Quintal,4,10000,12000
+3038,Radish,Quintal,1,1000,7000
+3042,Chinese Garlic,Quintal,2,5000,6000
+3001,Coriander,Per Hundred,160900,500,1200
+3002,Fenugreek,Per Hundred,79850,500,1000
+3003,Dill,Per Hundred,39575,400,800
+3004,Spring Onion,Per Hundred,9015,400,1000
+3005,Spinach,Per Hundred,9360,500,800
+3006,Radish,Per Hundred,3566,500,1200
+3007,Amaranth Leaves,Per Hundred,5375,500,700
+3008,Mustard,Per Hundred,400,400,800
+3009,Amaranth,Per Hundred,2650,400,700
+3011,Mint,Per Hundred,1980,200,500
+3015,Roselle,Per Hundred,250,400,700
+3016,Chia,Per Hundred,2540,400,1000
+3022,Iceberg Lettuce,Quintal,9,2000,3000
+4001,Lemon,Quintal,202,500,6000
+4002,Guava,Quintal,50,1000,5000
+4005,Jackfruit,Quintal,15,1000,3000
+4007,Pear,Quintal,14,6000,8000
+4034,Jamun,Quintal,160,3000,8000
+4038,Pineapple,Quintal,300,2600,6600
+4044,Fig,Quintal,15,4000,10000
+4049,Strawberry,Quintal,3,10000,20000
+4054,Sapodilla,Quintal,63,2000,5000
+4059,Pomegranate - No.1,Quintal,134,2000,15000
+4063,Apple - Shimla,Quintal,154,3000,12000
+4074,Karonda,Quintal,1151,500,1000
+4081,Amla,Quintal,11,2500,3000
+4086,Banana,Quintal,22,500,1500
+4088,Sweet Lime,Quintal,130,3000,5000
+4102,Papaya,Quintal,56,1000,2000
+4142,Grapes - Tasgaon,Quintal,211,2000,10000
+5003,Rice - Basmati,Quintal,41,6900,12200
+5004,Rice - Basmati Dubar,Quintal,783,5300,6400
+5005,Rice - Mogara,Quintal,545,4200,6000
+5006,Rice Flakes,Quintal,625,3600,4200
+5007,Rice - Ambemohar,Quintal,45,6500,8500
+5008,Rice - Kolam,Quintal,676,4100,6800
+5010,Rice - Dass,Quintal,680,3500,3900
+5011,Rice - Ukada,Quintal,407,3300,4400
+5012,Rice - Masuri,Quintal,418,3400,3800
+5013,Rice - Indrayani,Quintal,102,4600,5800
+5015,Wheat - Lokwan,Quintal,2585,3200,4000
+5017,Wheat - Gujarat Vinat,Quintal,669,3400,4200
+5018,Wheat - Gujarat Tukdi,Quintal,449,3600,4400
+5019,Wheat - Sinhor,Quintal,439,4000,5800
+5021,Sorghum - Maldandi No.1,Quintal,747,4600,5000
+5022,Sorghum - Maldandi No.2,Quintal,428,4400,4700
+5024,Sorghum - Vasant No.9,Quintal,546,4300,4500
+5025,Sorghum - Duri,Quintal,415,4200,4600
+5026,Pearl Millet - Gowran,Quintal,550,2700,2800
+5027,Pearl Millet - Hybrid,Quintal,383,2800,3000
+5028,Pearl Millet - Mahico No.910,Quintal,398,3000,3300
+5030,Peas - Green,Quintal,40,10000,11400
+5031,Peas - White,Quintal,36,4500,5400
+5033,Lentil,Quintal,43,6700,6300
+5035,Coriander - Indore,Quintal,4,11000,14000
+5036,Coriander - Gowran,Quintal,4,10000,11000
+5037,Chickpeas - Chafa,Quintal,45,7200,8000
+5038,Chickpeas - Hybrid,Quintal,40,7000,7800
+5041,Black Gram,Quintal,2,8800,9600
+5043,Maize - Red,Quintal,3,2300,2500
+5045,Tamarind - Old,Quintal,2,6000,7000
+5046,Tamarind - New,Quintal,4,9000,10000
+5047,Peanut - Gunguru,Quintal,781,9400,9800
+5048,Peanut - Jara,Quintal,326,9700,10000
+5049,Peanut - Spanish,Quintal,432,10400,11800
+5050,Turmeric - Rajapuri,Quintal,2,15000,21000
+5054,Green Gram,Quintal,41,8800,9800
+5057,Horse Gram,Quintal,7,5200,6600
+5058,Cowpea,Quintal,6,9800,12200
+5061,Finger Millet,Quintal,3,4300,5100
+5063,Jaggery - Type 1,Quintal,325,3861,4011
+5064,Jaggery - Type 2,Quintal,182,3701,3851
+5065,Red Jaggery,Quintal,219,3525,3675
+5067,Box Jaggery,Quintal,264,3900,4500
+5068,Red Chilli - Byadgi,Quintal,14,15000,19000
+5069,Red Chilli - Guntur,Quintal,12,14000,16000
+6009,Dates,10 Kg,1520,400,1400
+6011,Grated Coconut,25 Kg,1648,2830,2970
+6018,Amaranth,50 Kg,1267,6400,7400
+7001,Jasmine,1 Kg,895,400,600
+7002,Marigold,1 Kg,207,200,300
+7003,Jasmine,1 Kg,8,300,600
+7005,Tube Rose,1 Kg,3628,100,200
+7006,Marigold,1 Kg,26611,20,50
+7007,Holy Basil,1 Kg,1739,30,50
+7009,Lightning,1 Kg,2679,20,60
+7011,White Chrysanthemum,1 Kg,921,40,80
+7012,Yellow Chrysanthemum,1 Kg,517,40,80
+7013,Aster,Per Hundred,2970,6,10
+7014,Galanda,Per Hundred,667,6,8
+7015,Lily,Bundle,2030,6,10
+7016,Rose,Bunch,4644,10,16
+7018,Tube Rose Stick,Bunch,423,10,30
+7020,Golden D.J.,Bunch,893,10,30
+7021,Gladiolus Plain,Bunch,329,20,30
+7022,Gladiolus Colored,Bunch,414,40,60
+7027,Tats,Bunch,85,10,20
+7028,Gypsy,Bunch,273,100,200
+7031,Gerbera,Bunch,5480,30,40
+7032,Carnation,Bunch,620,80,150
+7033,Dutch Rose,Bunch,3910,50,100
+7035,Portia Tree,Per Piece,3628,6,10
+7036,Hibiscus,Per Hundred,197,6,10
+7038,Lilium,Bunch,132,500,700
+7039,Orchid,Bunch,24,200,400
+7040,Anthurium,Bunch,56,80,100
+7041,Grass,Bunch,2115,10,30
+7042,Leaf,Bunch,3346,30,40
+1001,Onion,Quintal,4309,800,1800
+1002,Potato,Quintal,4310,1000,2000
+1003,Garlic,Quintal,407,3500,10000
+1004,Ginger,Quintal,265,1000,2500
+2001,Ladyfinger,Quintal,274,1400,5000
+2002,Cluster Beans,Quintal,117,1500,6000
+2003,Tomato,Quintal,1156,600,1200
+2004,Peas,Quintal,226,3000,6000
+2005,Ridge Gourd,Quintal,28,3000,6000
+2006,Tinda,Quintal,81,2000,3000
+2007,Green Chilli,Quintal,459,3000,6000
+2008,Bottle Gourd,Quintal,130,1000,1600
+2010,Cucumber,Quintal,541,600,1600
+2011,Bitter Gourd,Quintal,60,2000,3000
+2012,Yam,Quintal,5,800,1500
+2013,Carrot,Quintal,528,1000,2000
+2014,Snake Gourd,Quintal,8,2500,4000
+2015,Pointed Gourd,Quintal,3,2000,2500
+2016,Cauliflower,Quintal,544,500,1200
+2017,Cabbage,Quintal,374,300,800
+2018,Brinjal,Quintal,162,1000,2500
+2019,Pumpkin,Quintal,104,1000,4000
+2020,Elephant Foot Yam,Quintal,1,1500,5000
+2021,Ivy Gourd,Quintal,24,2000,3000
+2022,Beetroot,Quintal,27,500,1500
+2023,Ash Gourd,Quintal,81,1000,2000
+2024,Parwal,Quintal,1,4000,6000
+2026,Hyacinth Beans,Quintal,5,2500,5000
+2027,Drumstick,Quintal,130,1000,4000
+2028,Raw Mango,Quintal,115,2000,5000
+2029,Chow Chow,Quintal,6,1000,3000
+2030,Kohlrabi,Quintal,4,200,500
+2032,Amaranth Leaves,Quintal,19,2000,3000
+2033,Taro,Quintal,7,2000,3000
+2035,Pointed Gourd,Quintal,42,4000,5000
+2036,Zucchini,Quintal,11,2000,3000
+2037,Curry Leaves,Quintal,32,3000,5000
+2040,Colocasia,Quintal,4,1600,2500
+3023,Red and Yellow Pumpkin,Quintal,9,1500,4000
+3024,Basil,Quintal,1,3000,3500
+3025,Broccoli,Quintal,23,1500,3000
+3028,Chinese Cabbage,Quintal,1,2000,2500
+3029,Red Cabbage,Quintal,1,1000,1500
+3030,Avocado,Quintal,1,12000,13000
+3031,Baby Corn,Quintal,1,4000,5000
+3032,Zucchini,Quintal,5,1500,2000
+3033,Cherry Tomato,Quintal,1,2000,2500
+3035,Celery,Quintal,10,1000,4000
+3036,Mushroom,Quintal,5,9000,12000
+3037,Lotus Root,Quintal,3,4500,5000
+3040,Leeks,Quintal,1,1000,3000
+3042,Chinese Garlic,Quintal,1,5000,8000
+3001,Coriander,Per Hundred,97090,500,1200
+3002,Fenugreek,Per Hundred,21725,500,1200
+3003,Dill,Per Hundred,13125,500,800
+3004,Spring Onion,Per Hundred,6610,400,1200
+3005,Spinach,Per Hundred,9500,500,800
+3006,Radish,Per Hundred,652,500,1500
+3007,Amaranth Leaves,Per Hundred,3650,400,700
+3008,Mustard,Per Hundred,270,500,800
+3009,Amaranth,Per Hundred,2350,400,800
+3011,Mint,Per Hundred,16850,200,500
+3015,Roselle,Per Hundred,50,500,700
+3016,Chia,Per Hundred,2640,500,1000
+3022,Iceberg Lettuce,Quintal,8,1500,2500
+4001,Lemon,Quintal,187,700,5700
+4002,Guava,Quintal,51,2000,4000
+4005,Jackfruit,Quintal,10,1500,1800
+4007,Pear,Quintal,15,5500,7500
+4034,Jamun,Quintal,150,3000,9000
+4044,Fig,Quintal,17,5000,10000
+4049,Strawberry,Quintal,3,10000,20000
+4054,Sapodilla,Quintal,65,2000,5000
+4059,Pomegranate - No.1,Quintal,24,2500,15000
+4063,Apple - Shimla,Quintal,170,3000,14000
+4074,Karonda,Quintal,1074,500,1000
+4081,Amla,Quintal,9,2500,3000
+4085,Wood Apple,Quintal,1,1000,2000
+4086,Banana,Quintal,11,500,2000
+4088,Sweet Lime,Quintal,140,3000,8000
+4102,Papaya,Quintal,56,700,2000
+4142,Grapes - Tasgaon,Quintal,228,2500,10500
+5003,Rice - Basmati,Quintal,38,7000,12000
+5004,Rice - Basmati Dubar,Quintal,782,5500,6500
+5005,Rice - Mogara,Quintal,548,4400,6200
+5006,Rice Flakes,Quintal,624,3800,4200
+5007,Rice - Ambemohar,Quintal,43,6400,8400
+5008,Rice - Kolam,Quintal,673,4000,7000
+5010,Rice - Dass,Quintal,676,3300,3700
+5011,Rice - Ukada,Quintal,410,3500,4500
+5012,Rice - Masuri,Quintal,421,3500,4000
+5013,Rice - Indrayani,Quintal,105,4500,5800
+5015,Wheat - Lokwan,Quintal,2583,3000,4000
+5017,Wheat - Gujarat Vinat,Quintal,666,3500,4300
+5018,Wheat - Gujarat Tukdi,Quintal,450,3700,4500
+5019,Wheat - Sinhor,Quintal,437,4000,5600
+5021,Sorghum - Maldandi No.1,Quintal,745,4500,5200
+5022,Sorghum - Maldandi No.2,Quintal,424,4300,4600
+5024,Sorghum - Vasant No.9,Quintal,543,4200,4500
+5025,Sorghum - Duri,Quintal,419,4100,4600
+5026,Pearl Millet - Gowran,Quintal,552,2800,2900
+5027,Pearl Millet - Hybrid,Quintal,380,2900,3100
+5028,Pearl Millet - Mahico No.910,Quintal,395,3100,3300
+5030,Peas - Green,Quintal,42,10100,11500
+5031,Peas - White,Quintal,38,4400,5400
+5033,Lentil,Quintal,44,6800,7400
+5035,Coriander - Indore,Quintal,3,10000,14000
+5036,Coriander - Gowran,Quintal,4,9000,10000
+5037,Chickpeas - Chafa,Quintal,43,7400,8200
+5038,Chickpeas - Hybrid,Quintal,39,7000,8000
+5041,Black Gram,Quintal,4,8800,9800
+5043,Maize - Red,Quintal,3,2300,2600
+5045,Tamarind - Old,Quintal,3,6500,7500
+5046,Tamarind - New,Quintal,4,9500,10500
+5047,Peanut - Gunguru,Quintal,779,9600,9800
+5048,Peanut - Jara,Quintal,323,9600,10200
+5049,Peanut - Spanish,Quintal,430,10600,11800
+5050,Turmeric - Rajapuri,Quintal,2,15000,20000
+5054,Green Gram,Quintal,39,9000,9800
+5057,Horse Gram,Quintal,6,5300,6600
+5058,Cowpea,Quintal,5,10000,12300
+5061,Finger Millet,Quintal,2,4500,5000
+5063,Jaggery - Type 1,Quintal,320,3801,3975
+5064,Jaggery - Type 2,Quintal,179,3675,3775
+5065,Red Jaggery,Quintal,216,3515,3651
+5067,Box Jaggery,Quintal,261,3900,4400
+5068,Red Chilli - Byadgi,Quintal,13,14000,19000
+5069,Red Chilli - Guntur,Quintal,10,13000,15000
+6009,Dates,10 Kg,1525,300,1500
+6011,Grated Coconut,25 Kg,1652,2850,2970
+6018,Amaranth,50 Kg,1270,6600,7400
+7001,Jasmine,1 Kg,905,300,500
+7002,Marigold,1 Kg,205,200,300
+7003,Jasmine,1 Kg,7,400,600
+7005,Tube Rose,1 Kg,3590,100,200
+7006,Marigold,1 Kg,26328,20,40
+7007,Holy Basil,1 Kg,1721,30,40
+7009,Lightning,1 Kg,2651,20,60
+7011,White Chrysanthemum,1 Kg,911,40,60
+7012,Yellow Chrysanthemum,1 Kg,512,40,60
+7013,Aster,Per Hundred,2939,8,10
+7014,Galanda,Per Hundred,660,6,10
+7015,Lily,Bundle,2009,6,10
+7016,Rose,Bunch,4594,8,16
+7018,Tube Rose Stick,Bunch,419,10,20
+7020,Golden D.J.,Bunch,884,10,30
+7021,Gladiolus Plain,Bunch,326,20,40
+7022,Gladiolus Colored,Bunch,409,30,60
+7027,Tats,Bunch,84,10,20
+7028,Gypsy,Bunch,270,100,200
+7031,Gerbera,Bunch,5422,20,40
+7032,Carnation,Bunch,614,80,120
+7033,Dutch Rose,Bunch,3869,50,100
+7035,Portia Tree,Per Piece,3590,5,15
+7036,Hibiscus,Per Hundred,195,6,10
+7038,Lilium,Bunch,130,500,700
+7039,Orchid,Bunch,23,200,400
+7040,Anthurium,Bunch,56,60,100
+7041,Grass,Bunch,2093,10,30
+7042,Leaf,Bunch,3311,30,40
+1001,Onion,Quintal,9536,800,1800
+1002,Potato,Quintal,5370,1200,2100
+1003,Garlic,Quintal,1256,4000,10000
+1004,Ginger,Quintal,563,1000,2500
+2001,Ladyfinger,Quintal,705,1400,5000
+2002,Cluster Beans,Quintal,273,3000,6000
+2003,Tomato,Quintal,2296,600,1200
+2004,Peas,Quintal,347,3000,6000
+2005,Ridge Gourd,Quintal,364,3000,7000
+2006,Tinda,Quintal,193,2000,4000
+2007,Green Chilli,Quintal,694,3000,6000
+2008,Bottle Gourd,Quintal,371,1000,2000
+2010,Cucumber,Quintal,1580,800,1600
+2011,Bitter Gourd,Quintal,201,2000,3000
+2012,Yam,Quintal,335,600,1500
+2013,Carrot,Quintal,1016,1000,2000
+2014,Snake Gourd,Quintal,5,2500,4000
+2015,Pointed Gourd,Quintal,17,2000,3000
+2016,Cauliflower,Quintal,894,500,1000
+2017,Cabbage,Quintal,588,300,800
+2018,Brinjal,Quintal,707,1000,3000
+2019,Pumpkin,Quintal,364,1000,3000
+2020,Elephant Foot Yam,Quintal,13,1000,4000
+2021,Ivy Gourd,Quintal,106,1500,3000
+2022,Beetroot,Quintal,142,700,1600
+2023,Ash Gourd,Quintal,124,1000,2000
+2024,Parwal,Quintal,7,3000,5000
+2026,Hyacinth Beans,Quintal,29,2000,5000
+2027,Drumstick,Quintal,208,1000,4000
+2028,Raw Mango,Quintal,335,1500,6000
+2029,Chow Chow,Quintal,20,700,2000
+2032,Amaranth Leaves,Quintal,50,2000,2500
+2033,Taro,Quintal,66,1800,13000
+2035,Pointed Gourd,Quintal,90,4000,5000
+2036,Zucchini,Quintal,61,1500,2500
+2040,Colocasia,Quintal,12,2000,4000
+3023,Red and Yellow Pumpkin,Quintal,31,1500,4000
+3024,Basil,Quintal,2,3000,4000
+3025,Broccoli,Quintal,46,2000,4000
+3026,Bok Choy,Quintal,2,1500,3000
+3027,Lollo Lettuce,Quintal,1,2000,2500
+3028,Chinese Cabbage,Quintal,2,2000,2500
+3029,Red Cabbage,Quintal,3,1000,1500
+3030,Avocado,Quintal,10,6500,15000
+3031,Baby Corn,Quintal,3,4000,5000
+3032,Zucchini,Quintal,16,2000,2500
+3033,Cherry Tomato,Quintal,1,2500,3000
+3034,Lettuce,Quintal,1,500,2500
+3035,Celery,Quintal,7,1000,4000
+3036,Mushroom,Quintal,8,10000,12000
+3037,Lotus Root,Quintal,3,4500,5000
+3039,Romaine Lettuce,Quintal,1,1000,5000
+3040,Leeks,Quintal,1,2000,2500
+3041,Chinese Cucumber,Quintal,13,200,1000
+3042,Chinese Garlic,Quintal,3,6000,8000
+3001,Coriander,Per Hundred,172080,300,1200
+3002,Fenugreek,Per Hundred,47850,500,1500
+3003,Dill,Per Hundred,10995,300,1000
+3004,Spring Onion,Per Hundred,5720,500,1600
+3005,Spinach,Per Hundred,14920,400,800
+3006,Radish,Per Hundred,2833,500,1500
+3007,Amaranth Leaves,Per Hundred,3400,500,800
+3008,Mustard,Per Hundred,290,500,800
+3009,Amaranth,Per Hundred,2300,300,500
+3011,Mint,Per Hundred,23650,200,500
+3015,Roselle,Per Hundred,200,400,600
+3016,Chia,Per Hundred,4450,500,1000
+3022,Iceberg Lettuce,Quintal,14,2000,3000
+4001,Lemon,Quintal,396,500,5400
+4002,Guava,Quintal,122,1000,6000
+4005,Jackfruit,Quintal,11,800,2000
+4007,Pear,Quintal,57,7000,9000
+4023,Plum,Quintal,1,4000,10000
+4027,Pomegranate,Quintal,1,2500,4500
+4034,Jamun,Quintal,427,2000,6000
+4038,Pineapple,Quintal,673,1300,5000
+4044,Fig,Quintal,27,4000,8000
+4049,Strawberry,Quintal,16,10000,20000
+4051,Jujube,Quintal,1,1000,2000
+4054,Sapodilla,Quintal,241,1000,3500
+4059,Pomegranate - No.1,Quintal,164,3000,15000
+4063,Apple - Shimla,Quintal,396,3000,10000
+4074,Karonda,Quintal,2389,800,1500
+4081,Amla,Quintal,62,2500,4500
+4086,Banana,Quintal,16,500,2000
+4088,Sweet Lime,Quintal,249,1800,6000
+4102,Papaya,Quintal,180,1000,2500
+4142,Grapes - Tasgaon,Quintal,946,2000,10000
+7001,Jasmine,1 Kg,920,400,600
+7002,Marigold,1 Kg,286,300,400
+7003,Jasmine,1 Kg,10,400,600
+7005,Tube Rose,1 Kg,5018,100,150
+7006,Marigold,1 Kg,36803,20,40
+7007,Holy Basil,1 Kg,2405,20,40
+7009,Lightning,1 Kg,3705,40,60
+7011,White Chrysanthemum,1 Kg,1274,40,100
+7012,Yellow Chrysanthemum,1 Kg,715,40,100
+7013,Aster,Per Hundred,4108,8,16
+7014,Galanda,Per Hundred,923,6,10
+7015,Lily,Bundle,2808,6,10
+7016,Rose,Bunch,6422,8,20
+7018,Tube Rose Stick,Bunch,585,10,30
+7020,Golden D.J.,Bunch,1235,10,30
+7021,Gladiolus Plain,Bunch,455,20,40
+7022,Gladiolus Colored,Bunch,572,30,60
+7027,Tats,Bunch,117,10,20
+7028,Gypsy,Bunch,377,80,150
+7031,Gerbera,Bunch,7579,20,30
+7032,Carnation,Bunch,858,80,100
+7033,Dutch Rose,Bunch,5408,60,100
+7035,Portia Tree,Per Piece,5018,5,15
+7036,Hibiscus,Per Hundred,273,5,15
+7038,Lilium,Bunch,182,400,600
+7039,Orchid,Bunch,33,200,300
+7040,Anthurium,Bunch,78,60,100
+7041,Grass,Bunch,2925,10,20
+7042,Leaf,Bunch,4628,20,40
+5003,Rice - Basmati,Quintal,43,6800,11800
+5004,Rice - Basmati Dubar,Quintal,767,5400,6600
+5005,Rice - Mogara,Quintal,566,4800,6000
+5006,Rice Flakes,Quintal,623,3300,4000
+5007,Rice - Ambemohar,Quintal,40,6200,8200
+5008,Rice - Kolam,Quintal,667,4300,7000
+5010,Rice - Dass,Quintal,683,3400,3900
+5011,Rice - Ukada,Quintal,413,3300,4400
+5012,Rice - Masuri,Quintal,423,3600,4000
+5013,Rice - Indrayani,Quintal,106,4700,6000
+5015,Wheat - Lokwan,Quintal,2591,3000,4000
+5017,Wheat - Gujarat Vinat,Quintal,671,3200,4400
+5018,Wheat - Gujarat Tukdi,Quintal,455,3500,4500
+5019,Wheat - Sinhor,Quintal,429,4400,5600
+5021,Sorghum - Maldandi No.1,Quintal,753,4500,5000
+5022,Sorghum - Maldandi No.2,Quintal,427,4300,4800
+5024,Sorghum - Vasant No.9,Quintal,552,4200,4500
+5025,Sorghum - Duri,Quintal,419,4000,4600
+5026,Pearl Millet - Gowran,Quintal,549,2900,3000
+5027,Pearl Millet - Hybrid,Quintal,364,3000,3200
+5028,Pearl Millet - Mahico No.910,Quintal,387,3200,3400
+5030,Peas - Green,Quintal,40,10000,11700
+5031,Peas - White,Quintal,38,4500,5600
+5033,Lentil,Quintal,43,6900,7500
+5035,Coriander - Indore,Quintal,2,10000,13000
+5036,Coriander - Gowran,Quintal,3,9500,10500
+5037,Chickpeas - Chafa,Quintal,45,7400,8400
+5038,Chickpeas - Hybrid,Quintal,43,7000,8200
+5041,Black Gram,Quintal,4,9300,10000
+5043,Maize - Red,Quintal,2,2300,2600
+5045,Tamarind - Old,Quintal,3,6000,7500
+5046,Tamarind - New,Quintal,4,9000,10500
+5047,Peanut - Gunguru,Quintal,779,9800,10000
+5048,Peanut - Jara,Quintal,340,10000,10500
+5049,Peanut - Spanish,Quintal,426,10600,12000
+5050,Turmeric - Rajapuri,Quintal,2,14000,20000
+5054,Green Gram,Quintal,40,9200,9800
+5057,Horse Gram,Quintal,5,5400,6800
+5058,Cowpea,Quintal,4,10500,12000
+5061,Finger Millet,Quintal,3,4400,5000
+5063,Jaggery - Type 1,Quintal,332,3875,4075
+5064,Jaggery - Type 2,Quintal,191,3725,3851
+5065,Red Jaggery,Quintal,219,3611,3715
+5067,Box Jaggery,Quintal,274,3700,4400
+5068,Red Chilli - Byadgi,Quintal,14,15000,19000
+5069,Red Chilli - Guntur,Quintal,12,14000,17000
+6009,Dates,10 Kg,1540,500,1600
+6011,Grated Coconut,25 Kg,1650,2870,3000
+6018,Amaranth,50 Kg,1242,6400,7500
+7001,Jasmine,1 Kg,910,500,750
+7002,Marigold,1 Kg,330,200,300
+7003,Jasmine,1 Kg,12,400,600
+7005,Tube Rose,1 Kg,5790,120,180
+7006,Marigold,1 Kg,42465,40,60
+7007,Holy Basil,1 Kg,2775,40,60
+7009,Lightning,1 Kg,4275,60,90
+7011,White Chrysanthemum,1 Kg,1470,80,120
+7012,Yellow Chrysanthemum,1 Kg,825,80,120
+7013,Aster,Per Hundred,4740,12,18
+7014,Galanda,Per Hundred,1065,10,14
+7015,Lily,Bundle,3240,10,16
+7016,Rose,Bunch,7410,10,20
+7018,Tube Rose Stick,Bunch,675,20,30
+7020,Golden D.J.,Bunch,1425,20,30
+7021,Gladiolus Plain,Bunch,525,30,40
+7022,Gladiolus Colored,Bunch,660,40,60
+7027,Tats,Bunch,135,10,20
+1001,Onion,Quintal,14968,800,1800
+1002,Potato,Quintal,5113,1000,2100
+1003,Garlic,Quintal,1454,4000,10000
+1004,Ginger,Quintal,444,1000,2500
+2001,Ladyfinger,Quintal,395,1500,5000
+2002,Cluster Beans,Quintal,219,2000,8000
+2003,Tomato,Quintal,2399,200,1200
+2004,Peas,Quintal,386,3000,6000
+2005,Ridge Gourd,Quintal,219,3000,7000
+2006,Tinda,Quintal,92,2000,4000
+2007,Green Chilli,Quintal,1110,3000,6000
+2008,Bottle Gourd,Quintal,243,600,2000
+2010,Cucumber,Quintal,1139,500,1600
+2011,Bitter Gourd,Quintal,184,2000,3500
+2012,Yam,Quintal,222,500,1200
+2013,Carrot,Quintal,873,500,2500
+2014,Snake Gourd,Quintal,6,2500,4500
+2015,Pointed Gourd,Quintal,5,2000,3000
+2016,Cauliflower,Quintal,755,300,1000
+2017,Cabbage,Quintal,592,300,800
+2018,Brinjal,Quintal,405,1000,4000
+2019,Pumpkin,Quintal,402,1000,3500
+2020,Elephant Foot Yam,Quintal,5,1800,4000
+2021,Ivy Gourd,Quintal,37,2000,6000
+2022,Beetroot,Quintal,139,500,1400
+2023,Ash Gourd,Quintal,207,1000,2000
+2024,Parwal,Quintal,12,3000,5000
+2026,Hyacinth Beans,Quintal,24,3000,5000
+2027,Drumstick,Quintal,227,1000,4000
+2028,Raw Mango,Quintal,185,2000,4500
+2029,Chow Chow,Quintal,17,500,4000
+2032,Amaranth Leaves,Quintal,30,1500,3000
+2033,Taro,Quintal,48,2000,3000
+2035,Pointed Gourd,Quintal,23,4000,5000
+2036,Zucchini,Quintal,34,2000,3500
+2037,Curry Leaves,Quintal,48,2000,5000
+2040,Colocasia,Quintal,10,1500,2500
+3023,Red and Yellow Pumpkin,Quintal,18,2000,5000
+3024,Basil,Quintal,1,3000,4000
+3025,Broccoli,Quintal,39,2000,4000
+3026,Bok Choy,Quintal,1,1500,2000
+3028,Chinese Cabbage,Quintal,1,2000,2500
+3029,Red Cabbage,Quintal,3,1000,2000
+3030,Avocado,Quintal,2,6000,7000
+3031,Baby Corn,Quintal,2,4000,5000
+3032,Zucchini,Quintal,11,2000,3000
+3035,Celery,Quintal,7,1000,5000
+3036,Mushroom,Quintal,5,10000,12000
+3037,Lotus Root,Quintal,4,4500,5000
+3041,Chinese Cucumber,Quintal,8,200,1000
+3042,Chinese Garlic,Quintal,2,6000,7000
+3001,Coriander,Per Hundred,179812,300,1200
+3002,Fenugreek,Per Hundred,53675,500,1200
+3003,Dill,Per Hundred,16250,300,800
+3004,Spring Onion,Per Hundred,10030,500,1000
+3005,Spinach,Per Hundred,9770,400,700
+3006,Radish,Per Hundred,3165,500,1200
+3007,Amaranth Leaves,Per Hundred,5030,400,700
+3008,Mustard,Per Hundred,500,400,800
+3009,Amaranth,Per Hundred,3850,400,700
+3011,Mint,Per Hundred,28975,150,500
+3014,Chia Seeds,Per Hundred,200,500,800
+3015,Roselle,Per Hundred,100,400,700
+3016,Chia,Per Hundred,3480,500,1000
+3022,Iceberg Lettuce,Quintal,11,2500,3000
+4001,Lemon,Quintal,293,600,6000
+4002,Guava,Quintal,106,1000,5000
+4005,Jackfruit,Quintal,49,1000,4000
+4007,Pear,Quintal,8,6000,7500
+4027,Pomegranate,Quintal,4,2000,8000
+4034,Jamun,Quintal,316,4000,9000
+4038,Pineapple,Quintal,288,2600,5300
+4044,Fig,Quintal,18,5000,10000
+4049,Strawberry,Quintal,9,10000,20000
+4054,Sapodilla,Quintal,190,2000,5000
+4059,Pomegranate - No.1,Quintal,163,1500,15000
+4063,Apple - Shimla,Quintal,276,3000,14000
+4074,Karonda,Quintal,1838,500,1200
+4081,Amla,Quintal,42,2500,3000
+4086,Banana,Quintal,27,500,2500
+4088,Sweet Lime,Quintal,214,3000,6000
+4102,Papaya,Quintal,106,1000,2000
+4142,Grapes - Tasgaon,Quintal,586,2500,13500
+5003,Rice - Basmati,Quintal,41,7000,12000
+5004,Rice - Basmati Dubar,Quintal,765,5400,6800
+5005,Rice - Mogara,Quintal,563,4600,6000
+5006,Rice Flakes,Quintal,620,3400,4200
+5007,Rice - Ambemohar,Quintal,38,6300,8300
+5008,Rice - Kolam,Quintal,664,4200,6800
+5010,Rice - Dass,Quintal,685,3400,4000
+5011,Rice - Ukada,Quintal,410,3200,4300
+5012,Rice - Masuri,Quintal,425,3500,4000
+5013,Rice - Indrayani,Quintal,102,4600,6000
+5015,Wheat - Lokwan,Quintal,2589,3000,4200
+5017,Wheat - Gujarat Vinat,Quintal,669,3300,4400
+5018,Wheat - Gujarat Tukdi,Quintal,452,3400,4500
+5019,Wheat - Sinhor,Quintal,430,4200,5600
+5021,Sorghum - Maldandi No.1,Quintal,751,4400,5200
+5022,Sorghum - Maldandi No.2,Quintal,425,4300,5000
+5024,Sorghum - Vasant No.9,Quintal,549,4100,4500
+5025,Sorghum - Duri,Quintal,421,4000,4600
+5026,Pearl Millet - Gowran,Quintal,547,2800,2900
+5027,Pearl Millet - Hybrid,Quintal,365,2900,3200
+5028,Pearl Millet - Mahico No.910,Quintal,385,3000,3300
+5030,Peas - Green,Quintal,37,10000,11500
+5031,Peas - White,Quintal,35,4300,5700
+5033,Lentil,Quintal,40,7000,7400
+5035,Coriander - Indore,Quintal,1,10000,14000
+5036,Coriander - Gowran,Quintal,2,9000,11000
+5037,Chickpeas - Chafa,Quintal,44,7300,8300
+5038,Chickpeas - Hybrid,Quintal,41,7000,8000
+5041,Black Gram,Quintal,4,9200,10000
+5043,Maize - Red,Quintal,3,2400,2600
+5045,Tamarind - Old,Quintal,3,6000,7500
+5046,Tamarind - New,Quintal,2,9000,11000
+5047,Peanut - Gunguru,Quintal,776,9700,10000
+5048,Peanut - Jara,Quintal,337,9800,10500
+5049,Peanut - Spanish,Quintal,424,10700,11900
+5050,Turmeric - Rajapuri,Quintal,3,14000,20000
+5054,Green Gram,Quintal,42,9000,9700
+5057,Horse Gram,Quintal,4,5500,6900
+5058,Cowpea,Quintal,6,10400,12000
+5061,Finger Millet,Quintal,2,4300,5000
+5063,Jaggery - Type 1,Quintal,330,3815,4015
+5064,Jaggery - Type 2,Quintal,188,3675,3801
+5065,Red Jaggery,Quintal,217,3575,3651
+5067,Box Jaggery,Quintal,271,3800,4500
+5068,Red Chilli - Byadgi,Quintal,12,15000,18000
+5069,Red Chilli - Guntur,Quintal,10,14000,16000
+6009,Dates,10 Kg,1535,400,1600
+6011,Grated Coconut,25 Kg,1647,2860,3000
+6018,Amaranth,50 Kg,1245,6400,7400
+7001,Jasmine,1 Kg,870,400,600
+7002,Marigold,1 Kg,308,200,300
+7003,Jasmine,1 Kg,11,400,600
+7005,Tube Rose,1 Kg,5404,70,100
+7006,Marigold,1 Kg,45296,20,40
+7007,Holy Basil,1 Kg,2590,30,50
+7009,Lightning,1 Kg,3990,30,60
+7011,White Chrysanthemum,1 Kg,1372,60,100
+7012,Yellow Chrysanthemum,1 Kg,770,60,120
+7013,Aster,Per Hundred,4424,10,20
+7014,Galanda,Per Hundred,994,8,12
+7015,Lily,Bundle,3024,10,18
+7016,Rose,Bunch,6916,10,20
+7018,Tube Rose Stick,Bunch,630,20,30
+7020,Golden D.J.,Bunch,1330,20,30
+7021,Gladiolus Plain,Bunch,490,20,30
+7022,Gladiolus Colored,Bunch,616,40,60
+7027,Tats,Bunch,126,10,20
+7028,Gypsy,Bunch,406,100,200
+7031,Gerbera,Bunch,8162,10,30
+7032,Carnation,Bunch,924,80,120
+7033,Dutch Rose,Bunch,5824,60,100
+7035,Portia Tree,Per Piece,5404,10,20
+7036,Hibiscus,Per Hundred,294,10,20
+7038,Lilium,Bunch,196,600,900
+7039,Orchid,Bunch,35,200,400
+7040,Anthurium,Bunch,84,60,100
+7041,Grass,Bunch,3150,10,20
+7042,Leaf,Bunch,4984,20,30
+1001,Onion,Quintal,11881,700,1900
+1002,Potato,Quintal,3938,800,2100
+1003,Garlic,Quintal,903,4000,10000
+1004,Ginger,Quintal,245,1000,2500
+2001,Ladyfinger,Quintal,412,1400,5000
+2002,Cluster Beans,Quintal,192,3000,8000
+2003,Tomato,Quintal,2118,500,1000
+2004,Peas,Quintal,419,4000,6000
+2005,Ridge Gourd,Quintal,160,4000,6000
+2006,Tinda,Quintal,95,2000,4000
+2007,Green Chilli,Quintal,644,1500,5000
+2008,Bottle Gourd,Quintal,279,600,1600
+2010,Cucumber,Quintal,1076,1000,2000
+2011,Bitter Gourd,Quintal,149,2000,3000
+2012,Yam,Quintal,51,600,1500
+2013,Carrot,Quintal,678,1000,2000
+2014,Snake Gourd,Quintal,5,2000,4500
+2015,Pointed Gourd,Quintal,31,2000,2500
+2016,Cauliflower,Quintal,775,500,1000
+2017,Cabbage,Quintal,599,300,700
+2018,Brinjal,Quintal,397,1000,3000
+2019,Pumpkin,Quintal,354,1000,3000
+2020,Elephant Foot Yam,Quintal,7,2000,5000
+2021,Ivy Gourd,Quintal,80,2000,4000
+2022,Beetroot,Quintal,287,700,1500
+2023,Ash Gourd,Quintal,192,1000,2500
+2024,Parwal,Quintal,9,3000,5000
+2026,Hyacinth Beans,Quintal,26,2000,5000
+2027,Drumstick,Quintal,220,1000,4000
+2028,Raw Mango,Quintal,381,2000,4000
+2029,Chow Chow,Quintal,13,500,3000
+2032,Amaranth Leaves,Quintal,43,2000,4000
+2033,Taro,Quintal,42,2000,3000
+2035,Pointed Gourd,Quintal,26,3000,5000
+2036,Zucchini,Quintal,46,1500,3000
+2037,Curry Leaves,Quintal,19,3000,5000
+2040,Colocasia,Quintal,5,1600,4000
+3023,Red and Yellow Pumpkin,Quintal,16,2000,5000
+3024,Basil,Quintal,1,3500,4000
+3025,Broccoli,Quintal,31,2000,5000
+3028,Chinese Cabbage,Quintal,1,2500,3000
+3029,Red Cabbage,Quintal,1,1000,1500
+3030,Avocado,Quintal,3,6000,7000
+3031,Baby Corn,Quintal,2,5000,6000
+3032,Zucchini,Quintal,16,2000,3000
+3033,Cherry Tomato,Quintal,1,3500,4000
+3034,Lettuce,Quintal,1,500,2500
+3035,Celery,Quintal,4,1000,5000
+3036,Mushroom,Quintal,5,10000,13000
+3039,Romaine Lettuce,Quintal,1,2000,2500
+3040,Leeks,Quintal,1,1000,4000
+3041,Chinese Cucumber,Quintal,6,400,800
+3042,Chinese Garlic,Quintal,3,6000,8000
+3001,Coriander,Per Hundred,160580,500,1200
+3002,Fenugreek,Per Hundred,64835,500,1000
+3003,Dill,Per Hundred,8660,500,800
+3004,Spring Onion,Per Hundred,6425,500,800
+3005,Spinach,Per Hundred,7400,400,700
+3006,Radish,Per Hundred,3420,500,1500
+3007,Amaranth Leaves,Per Hundred,6520,400,700
+3008,Mustard,Per Hundred,450,400,600
+3009,Amaranth,Per Hundred,2000,400,600
+3011,Mint,Per Hundred,17850,200,500
+3014,Chia Seeds,Per Hundred,200,500,600
+3015,Roselle,Per Hundred,100,400,600
+3016,Chia,Per Hundred,2950,400,800
+3022,Iceberg Lettuce,Quintal,8,2000,3000
+4001,Lemon,Quintal,207,600,6000
+4002,Guava,Quintal,130,1500,5000
+4005,Jackfruit,Quintal,8,1000,4000
+4007,Pear,Quintal,26,5500,7500
+4027,Pomegranate,Quintal,2,1500,7000
+4034,Jamun,Quintal,322,4000,9000
+4038,Pineapple,Quintal,273,2600,6600
+4044,Fig,Quintal,25,4000,10000
+4049,Strawberry,Quintal,9,10000,15000
+4054,Sapodilla,Quintal,190,2000,5000
+4059,Pomegranate - No.1,Quintal,132,2000,15000
+4063,Apple - Shimla,Quintal,287,3000,14000
+4067,Pear,Quintal,12,5000,10000
+4074,Karonda,Quintal,1624,500,1000
+4081,Amla,Quintal,28,2500,3000
+4086,Banana,Quintal,22,500,1500
+4088,Sweet Lime,Quintal,214,3700,6600
+4102,Papaya,Quintal,253,700,2000
+4142,Grapes - Tasgaon,Quintal,588,2000,11000
+5003,Rice - Basmati,Quintal,43,7000,12000
+5004,Rice - Basmati Dubar,Quintal,569,5500,7000
+5005,Rice - Mogara,Quintal,560,4500,6000
+5006,Rice Flakes,Quintal,623,3500,4000
+5007,Rice - Ambemohar,Quintal,41,6500,8500
+5008,Rice - Kolam,Quintal,665,4000,6800
+5010,Rice - Dass,Quintal,681,3500,3900
+5011,Rice - Ukada,Quintal,413,3300,4400
+5012,Rice - Masuri,Quintal,422,3600,4000
+5013,Rice - Indrayani,Quintal,103,4500,6000
+5015,Wheat - Lokwan,Quintal,2591,3200,4200
+5017,Wheat - Gujarat Vinat,Quintal,667,3400,4400
+5018,Wheat - Gujarat Tukdi,Quintal,450,3500,4500
+5019,Wheat - Sinhor,Quintal,432,4000,5500
+5021,Sorghum - Maldandi No.1,Quintal,748,4600,5200
+5022,Sorghum - Maldandi No.2,Quintal,426,4400,5000
+5024,Sorghum - Vasant No.9,Quintal,546,4500,4800
+5025,Sorghum - Duri,Quintal,422,4200,4700
+5026,Pearl Millet - Gowran,Quintal,544,2900,3000
+5027,Pearl Millet - Hybrid,Quintal,370,3000,3200
+5028,Pearl Millet - Mahico No.910,Quintal,387,3100,3300
+5030,Peas - Green,Quintal,39,9800,11300
+5031,Peas - White,Quintal,36,4500,5500
+5033,Lentil,Quintal,42,6800,7400
+5035,Coriander - Indore,Quintal,2,10000,14000
+5036,Coriander - Gowran,Quintal,2,9000,11000
+5037,Chickpeas - Chafa,Quintal,42,7300,8500
+5038,Chickpeas - Hybrid,Quintal,40,7200,8000
+5041,Black Gram,Quintal,3,9000,10000
+5043,Maize - Red,Quintal,2,2400,2700
+5045,Tamarind - Old,Quintal,2,6500,7500
+5046,Tamarind - New,Quintal,4,9500,10500
+5047,Peanut - Gunguru,Quintal,773,9600,10000
+5048,Peanut - Jara,Quintal,334,9400,10300
+5049,Peanut - Spanish,Quintal,425,10600,12000
+5050,Turmeric - Rajapuri,Quintal,2,15000,20000
+5054,Green Gram,Quintal,40,9000,9500
+5057,Horse Gram,Quintal,5,5600,6800
+5058,Cowpea,Quintal,4,10200,12000
+5061,Finger Millet,Quintal,3,4500,5000
+5063,Jaggery - Type 1,Quintal,326,3915,4025
+5064,Jaggery - Type 2,Quintal,185,3801,3901
+5065,Red Jaggery,Quintal,215,3615,3771
+5067,Box Jaggery,Quintal,268,3800,4400
+5068,Red Chilli - Byadgi,Quintal,14,14000,18000
+5069,Red Chilli - Guntur,Quintal,12,13500,16000
+6009,Dates,10 Kg,1531,500,1500
+6011,Grated Coconut,25 Kg,1645,2850,2950
+6018,Amaranth,50 Kg,1250,6400,7400
+7001,Jasmine,1 Kg,855,400,600
+7002,Marigold,1 Kg,271,200,300
+7003,Jasmine,1 Kg,10,400,600
+7005,Tube Rose,1 Kg,4748,80,120
+7006,Marigold,1 Kg,34821,20,40
+7007,Holy Basil,1 Kg,2276,20,40
+7009,Lightning,1 Kg,3506,20,40
+7011,White Chrysanthemum,1 Kg,1205,40,80
+7012,Yellow Chrysanthemum,1 Kg,677,60,80
+7013,Aster,Per Hundred,3887,6,12
+7014,Galanda,Per Hundred,873,6,12
+7015,Lily,Bundle,2657,10,18
+7016,Rose,Bunch,6076,10,20
+7018,Tube Rose Stick,Bunch,554,20,30
+7020,Golden D.J.,Bunch,1169,20,30
+7021,Gladiolus Plain,Bunch,431,20,30
+7022,Gladiolus Colored,Bunch,541,40,60
+7027,Tats,Bunch,111,20,30
+7028,Gypsy,Bunch,357,100,150
+7031,Gerbera,Bunch,7171,10,20
+7032,Carnation,Bunch,812,80,120
+7033,Dutch Rose,Bunch,5117,50,80
+7035,Portia Tree,Per Piece,4748,6,10
+7036,Hibiscus,Per Hundred,258,4,6
+7038,Lilium,Bunch,172,400,600
+7039,Orchid,Bunch,31,300,450
+7040,Anthurium,Bunch,74,60,90
+7041,Grass,Bunch,2768,10,20
+7042,Leaf,Bunch,4379,20,30
+1001,Onion,Quintal,8376,1000,2000
+1002,Potato,Quintal,4729,800,2000
+1003,Garlic,Quintal,265,4000,10000
+1004,Ginger,Quintal,397,1000,2500
+2001,Ladyfinger,Quintal,297,1200,4500
+2002,Cluster Beans,Quintal,153,3000,7000
+2003,Tomato,Quintal,1175,600,1200
+2004,Peas,Quintal,164,3000,5500
+2005,Ridge Gourd,Quintal,186,2500,5000
+2006,Tinda,Quintal,46,2000,4000
+2007,Green Chilli,Quintal,736,3000,5000
+2008,Bottle Gourd,Quintal,147,600,1600
+2010,Cucumber,Quintal,815,800,1600
+2011,Bitter Gourd,Quintal,95,2000,3000
+2012,Yam,Quintal,238,600,1500
+2013,Carrot,Quintal,755,1000,2000
+2014,Snake Gourd,Quintal,9,2500,4500
+2015,Pointed Gourd,Quintal,5,2000,2500
+2016,Cauliflower,Quintal,676,500,1000
+2017,Cabbage,Quintal,585,300,700
+2018,Brinjal,Quintal,274,1000,4000
+2019,Pumpkin,Quintal,244,1000,2500
+2020,Elephant Foot Yam,Quintal,9,1500,5000
+2021,Ivy Gourd,Quintal,52,2000,4000
+2022,Beetroot,Quintal,186,500,1500
+2023,Ash Gourd,Quintal,226,1000,2500
+2024,Parwal,Quintal,4,3000,6000
+2026,Hyacinth Beans,Quintal,34,3000,5000
+2027,Drumstick,Quintal,196,1000,4000
+2028,Raw Mango,Quintal,258,1000,5000
+2029,Chow Chow,Quintal,6,500,3000
+2032,Amaranth Leaves,Quintal,33,2000,3000
+2033,Taro,Quintal,55,2000,3000
+2035,Pointed Gourd,Quintal,27,4000,5000
+2036,Zucchini,Quintal,20,2000,5000
+2037,Curry Leaves,Quintal,33,3000,5000
+2040,Colocasia,Quintal,3,1000,4000
+3023,Red and Yellow Pumpkin,Quintal,13,2000,5000
+3024,Basil,Quintal,1,2500,3000
+3025,Broccoli,Quintal,30,1500,4000
+3028,Chinese Cabbage,Quintal,1,2500,3000
+3029,Red Cabbage,Quintal,4,1000,2000
+3031,Baby Corn,Quintal,3,5000,6000
+3032,Zucchini,Quintal,9,2000,3000
+3033,Cherry Tomato,Quintal,1,2000,2500
+3034,Lettuce,Quintal,2,500,2500
+3035,Celery,Quintal,4,1000,5000
+3036,Mushroom,Quintal,6,10000,13000
+3037,Lotus Root,Quintal,1,4500,5000
+3039,Romaine Lettuce,Quintal,1,2000,2500
+3041,Chinese Cucumber,Quintal,8,400,1000
+3042,Chinese Garlic,Quintal,2,6000,7000
+3001,Coriander,Per Hundred,142730,500,1200
+3002,Fenugreek,Per Hundred,59700,400,1000
+3003,Dill,Per Hundred,17550,400,800
+3004,Spring Onion,Per Hundred,12560,500,1000
+3005,Spinach,Per Hundred,10210,500,800
+3006,Radish,Per Hundred,3742,400,1200
+3007,Amaranth Leaves,Per Hundred,3150,500,800
+3008,Mustard,Per Hundred,450,400,700
+3009,Amaranth,Per Hundred,1650,400,800
+3011,Mint,Per Hundred,18150,200,500
+3014,Chia Seeds,Per Hundred,200,500,600
+3016,Chia,Per Hundred,2350,400,1000
+3022,Iceberg Lettuce,Quintal,6,2000,3000
+4001,Lemon,Quintal,254,500,6000
+4002,Guava,Quintal,126,2000,5000
+4005,Jackfruit,Quintal,85,1000,4000
+4007,Pear,Quintal,9,5500,9500
+4027,Pomegranate,Quintal,2,1500,7000
+4034,Jamun,Quintal,303,4000,9000
+4038,Pineapple,Quintal,165,2600,6600
+4044,Fig,Quintal,21,5000,10000
+4049,Strawberry,Quintal,9,10000,20000
+4051,Jujube,Quintal,2,1000,4000
+4054,Sapodilla,Quintal,231,2000,5000
+4059,Pomegranate - No.1,Quintal,107,1500,15000
+4063,Apple - Shimla,Quintal,292,3000,14000
+4074,Karonda,Quintal,1734,500,1200
+4081,Amla,Quintal,41,2500,3000
+4086,Banana,Quintal,23,500,2500
+4088,Sweet Lime,Quintal,196,4000,6000
+4102,Papaya,Quintal,124,700,2000
+4142,Grapes - Tasgaon,Quintal,608,2000,13000
+5003,Rice - Basmati,Quintal,46,6800,12000
+5004,Rice - Basmati Dubar,Quintal,772,5500,6800
+5005,Rice - Mogara,Quintal,556,4500,6200
+5006,Rice Flakes,Quintal,621,3600,4000
+5007,Rice - Ambemohar,Quintal,43,6500,8600
+5008,Rice - Kolam,Quintal,669,4000,7000
+5010,Rice - Dass,Quintal,678,3400,3800
+5011,Rice - Ukada,Quintal,411,3300,4500
+5012,Rice - Masuri,Quintal,424,3500,4000
+5013,Rice - Indrayani,Quintal,107,4500,5800
+5015,Wheat - Lokwan,Quintal,2589,3200,4000
+5017,Wheat - Gujarat Vinat,Quintal,668,3500,4300
+5018,Wheat - Gujarat Tukdi,Quintal,453,3600,4500
+5019,Wheat - Sinhor,Quintal,435,4000,5600
+5021,Sorghum - Maldandi No.1,Quintal,746,4800,5400
+5022,Sorghum - Maldandi No.2,Quintal,422,4600,5000
+5024,Sorghum - Vasant No.9,Quintal,548,4400,4700
+5025,Sorghum - Duri,Quintal,419,4300,4800
+5026,Pearl Millet - Gowran,Quintal,546,2800,2900
+5027,Pearl Millet - Hybrid,Quintal,374,2900,3000
+5028,Pearl Millet - Mahico No.910,Quintal,385,3100,3300
+5030,Peas - Green,Quintal,37,10000,11400
+5031,Peas - White,Quintal,34,4400,5600
+5033,Lentil,Quintal,41,7000,7500
+5035,Coriander - Indore,Quintal,2,10000,13000
+5036,Coriander - Gowran,Quintal,1,9000,10000
+5037,Chickpeas - Chafa,Quintal,45,7200,8400
+5038,Chickpeas - Hybrid,Quintal,42,7000,8000
+5041,Black Gram,Quintal,2,9000,10000
+5043,Maize - Red,Quintal,3,2300,2500
+5045,Tamarind - Old,Quintal,3,6000,7500
+5046,Tamarind - New,Quintal,4,9000,10000
+5047,Peanut - Gunguru,Quintal,770,9400,10000
+5048,Peanut - Jara,Quintal,331,9600,10200
+5049,Peanut - Spanish,Quintal,427,10400,12000
+5050,Turmeric - Rajapuri,Quintal,1,15000,19000
+5054,Green Gram,Quintal,37,8800,9600
+5057,Horse Gram,Quintal,3,5500,6700
+5058,Cowpea,Quintal,6,10000,12000
+5061,Finger Millet,Quintal,3,4400,5000
+5063,Jaggery - Type 1,Quintal,323,3875,4025
+5064,Jaggery - Type 2,Quintal,182,3775,3851
+5065,Red Jaggery,Quintal,217,3601,3751
+5067,Box Jaggery,Quintal,264,3900,4300
+5068,Red Chilli - Byadgi,Quintal,13,14000,17000
+5069,Red Chilli - Guntur,Quintal,10,13000,15000
+6009,Dates,10 Kg,1528,500,1500
+6011,Grated Coconut,25 Kg,1642,2860,2980
+6018,Amaranth,50 Kg,1255,6500,7500
+7001,Jasmine,1 Kg,840,200,300
+7002,Marigold,1 Kg,167,180,270
+7003,Jasmine,1 Kg,6,300,450
+7005,Tube Rose,1 Kg,2934,100,150
+7006,Marigold,1 Kg,21516,20,30
+7007,Holy Basil,1 Kg,1406,20,30
+7009,Lightning,1 Kg,2166,20,30
+7011,White Chrysanthemum,1 Kg,745,60,90
+7012,Yellow Chrysanthemum,1 Kg,418,60,90
+7013,Aster,Per Hundred,2402,8,12
+7014,Galanda,Per Hundred,540,8,12
+7015,Lily,Bundle,1642,12,18
+7016,Rose,Bunch,3754,8,12
+7018,Tube Rose Stick,Bunch,342,20,30
+7020,Golden D.J.,Bunch,722,20,30
+7021,Gladiolus Plain,Bunch,266,12,18
+7022,Gladiolus Colored,Bunch,334,40,60
+7027,Tats,Bunch,68,12,18
+7028,Gypsy,Bunch,220,100,150
+7031,Gerbera,Bunch,4431,10,20
+7032,Carnation,Bunch,502,80,100
+7033,Dutch Rose,Bunch,3162,60,100
+7035,Portia Tree,Per Piece,2934,8,12
+7036,Hibiscus,Per Hundred,160,4,6
+7038,Lilium,Bunch,106,400,600
+7039,Orchid,Bunch,19,300,450
+7040,Anthurium,Bunch,46,60,90
+7041,Grass,Bunch,1710,10,20
+7042,Leaf,Bunch,2706,20,30
+1001,Onion,Quintal,7112,900,1900
+1002,Potato,Quintal,6295,800,2100
+1003,Garlic,Quintal,1183,4000,10000
+1004,Ginger,Quintal,439,1000,2600
+2001,Ladyfinger,Quintal,435,1400,5000
+2002,Cluster Beans,Quintal,195,3000,7000
+2003,Tomato,Quintal,2319,500,1200
+2004,Peas,Quintal,429,3000,5500
+2005,Ridge Gourd,Quintal,242,3000,6000
+2006,Tinda,Quintal,90,2000,4000
+2007,Green Chilli,Quintal,872,3000,5000
+2008,Bottle Gourd,Quintal,231,600,1600
+2010,Cucumber,Quintal,1179,600,1800
+2011,Bitter Gourd,Quintal,114,2000,3500
+2012,Yam,Quintal,110,600,1200
+2013,Carrot,Quintal,940,1000,2000
+2014,Snake Gourd,Quintal,20,2000,5000
+2015,Pointed Gourd,Quintal,5,1500,2000
+2016,Cauliflower,Quintal,664,500,1000
+2017,Cabbage,Quintal,522,300,700
+2018,Brinjal,Quintal,315,1000,3000
+2019,Pumpkin,Quintal,430,1000,3000
+2020,Elephant Foot Yam,Quintal,7,1000,5000
+2021,Ivy Gourd,Quintal,52,2500,5000
+2022,Beetroot,Quintal,209,500,1500
+2023,Ash Gourd,Quintal,231,1000,2000
+2024,Parwal,Quintal,9,2000,5000
+2026,Hyacinth Beans,Quintal,40,3000,5000
+2027,Drumstick,Quintal,202,1000,4000
+2028,Raw Mango,Quintal,227,1000,5000
+2029,Chow Chow,Quintal,16,500,3000
+2030,Kohlrabi,Quintal,5,2000,4000
+2032,Amaranth Leaves,Quintal,28,2000,3000
+2033,Taro,Quintal,58,2000,3000
+2035,Pointed Gourd,Quintal,25,2500,4000
+2036,Zucchini,Quintal,36,1000,2500
+2037,Curry Leaves,Quintal,39,3000,5000
+2040,Colocasia,Quintal,23,1000,5000
+3023,Red and Yellow Pumpkin,Quintal,16,1500,4000
+3024,Basil,Quintal,1,3000,4000
+3025,Broccoli,Quintal,33,1500,4000
+3026,Bok Choy,Quintal,1,2000,2500
+3028,Chinese Cabbage,Quintal,1,2500,3000
+3029,Red Cabbage,Quintal,2,1500,2000
+3030,Avocado,Quintal,4,5500,7500
+3031,Baby Corn,Quintal,2,3500,5000
+3032,Zucchini,Quintal,9,1000,3000
+3033,Cherry Tomato,Quintal,1,2500,3000
+3034,Lettuce,Quintal,1,500,2500
+3035,Celery,Quintal,5,1000,5000
+3036,Mushroom,Quintal,5,10000,14000
+3037,Lotus Root,Quintal,4,4500,5000
+3042,Chinese Garlic,Quintal,2,5000,6000
+3001,Coriander,Per Hundred,164535,500,1200
+3002,Fenugreek,Per Hundred,41600,500,1100
+3003,Dill,Per Hundred,12900,500,800
+3004,Spring Onion,Per Hundred,9250,500,1200
+3005,Spinach,Per Hundred,13100,400,800
+3006,Radish,Per Hundred,3576,500,1500
+3007,Amaranth Leaves,Per Hundred,3850,500,700
+3008,Mustard,Per Hundred,320,400,500
+3009,Amaranth,Per Hundred,2300,400,800
+3011,Mint,Per Hundred,16300,200,600
+3014,Chia Seeds,Per Hundred,100,500,1000
+3015,Roselle,Per Hundred,100,400,600
+3016,Chia,Per Hundred,2200,400,800
+3022,Iceberg Lettuce,Quintal,6,2500,3000
+4001,Lemon,Quintal,250,500,6100
+4002,Guava,Quintal,245,1500,6000
+4005,Jackfruit,Quintal,20,1500,3500
+4007,Pear,Quintal,21,6000,7500
+4023,Plum,Quintal,1,5000,15000
+4027,Pomegranate,Quintal,5,1500,7000
+4034,Jamun,Quintal,376,4000,10000
+4038,Pineapple,Quintal,348,2600,6600
+4044,Fig,Quintal,23,5000,10000
+4049,Strawberry,Quintal,6,10000,20000
+4054,Sapodilla,Quintal,265,2000,5000
+4059,Pomegranate - No.1,Quintal,330,2500,15000
+4063,Apple - Shimla,Quintal,196,3000,13000
+4067,Pear,Quintal,12,5000,15000
+4074,Karonda,Quintal,1989,500,1000
+4081,Amla,Quintal,25,2500,3000
+4086,Banana,Quintal,30,500,2500
+4088,Sweet Lime,Quintal,269,4000,6000
+4102,Papaya,Quintal,221,700,2000
+4142,Grapes - Tasgaon,Quintal,740,2000,11000
+5003,Rice - Basmati,Quintal,43,7000,12200
+5004,Rice - Basmati Dubar,Quintal,774,5400,6700
+5005,Rice - Mogara,Quintal,553,4500,6000
+5006,Rice Flakes,Quintal,623,3700,4000
+5007,Rice - Ambemohar,Quintal,46,6500,8500
+5008,Rice - Kolam,Quintal,667,3800,7000
+5010,Rice - Dass,Quintal,681,3200,3800
+5011,Rice - Ukada,Quintal,414,3300,4400
+5012,Rice - Masuri,Quintal,421,3400,3900
+5013,Rice - Indrayani,Quintal,104,4500,6000
+5015,Wheat - Lokwan,Quintal,2585,3000,3800
+5017,Wheat - Gujarat Vinat,Quintal,665,3400,4200
+5018,Wheat - Gujarat Tukdi,Quintal,451,3600,4600
+5019,Wheat - Sinhor,Quintal,437,3800,5600
+5021,Sorghum - Maldandi No.1,Quintal,743,4600,5400
+5022,Sorghum - Maldandi No.2,Quintal,423,4500,4800
+5024,Sorghum - Vasant No.9,Quintal,546,4300,4600
+5025,Sorghum - Duri,Quintal,420,4200,4700
+5026,Pearl Millet - Gowran,Quintal,548,2800,3000
+5027,Pearl Millet - Hybrid,Quintal,376,2900,3100
+5028,Pearl Millet - Mahico No.910,Quintal,390,3000,3200
+5030,Peas - Green,Quintal,40,9900,11300
+5031,Peas - White,Quintal,35,4200,5200
+5033,Lentil,Quintal,44,7000,7600
+5035,Coriander - Indore,Quintal,1,9000,13000
+5036,Coriander - Gowran,Quintal,3,8000,10000
+5037,Chickpeas - Chafa,Quintal,43,7200,8200
+5038,Chickpeas - Hybrid,Quintal,40,7000,7800
+5041,Black Gram,Quintal,4,9000,9800
+5043,Maize - Red,Quintal,2,2300,2700
+5045,Tamarind - Old,Quintal,1,6000,7000
+5046,Tamarind - New,Quintal,2,9000,10000
+5047,Peanut - Gunguru,Quintal,773,9400,9800
+5048,Peanut - Jara,Quintal,328,9500,10000
+5049,Peanut - Spanish,Quintal,424,10500,12000
+5050,Turmeric - Rajapuri,Quintal,2,15000,20000
+5054,Green Gram,Quintal,40,8800,9800
+5057,Horse Gram,Quintal,5,5400,6600
+5058,Cowpea,Quintal,6,10000,12200
+5061,Finger Millet,Quintal,4,4500,4800
+5063,Jaggery - Type 1,Quintal,237,3825,4015
+5064,Jaggery - Type 2,Quintal,180,3701,3815
+5065,Red Jaggery,Quintal,220,3551,3675
+5067,Box Jaggery,Quintal,267,4000,4400
+5068,Red Chilli - Byadgi,Quintal,10,14000,18000
+5069,Red Chilli - Guntur,Quintal,12,13000,14000
+6009,Dates,10 Kg,1525,400,1600
+6011,Grated Coconut,25 Kg,1260,6500,7500
+6018,Amaranth,50 Kg,1260,6500,7500
+7001,Jasmine,1 Kg,835,300,450
+7002,Marigold,1 Kg,168,200,300
+7003,Jasmine,1 Kg,6,400,600
+7005,Tube Rose,1 Kg,2953,60,90
+7006,Marigold,1 Kg,21657,20,30
+7007,Holy Basil,1 Kg,1415,20,30
+7009,Lightning,1 Kg,2180,20,30
+7011,White Chrysanthemum,1 Kg,750,40,60
+7012,Yellow Chrysanthemum,1 Kg,421,60,90
+7013,Aster,Per Hundred,2417,12,18
+7014,Galanda,Per Hundred,543,8,12
+7015,Lily,Bundle,1652,8,12
+7016,Rose,Bunch,3779,12,18
+7018,Tube Rose Stick,Bunch,344,20,30
+7020,Golden D.J.,Bunch,727,20,30
+7021,Gladiolus Plain,Bunch,268,20,30
+7022,Gladiolus Colored,Bunch,337,40,60
+7027,Tats,Bunch,69,20,30
+7028,Gypsy,Bunch,222,100,150
+7031,Gerbera,Bunch,4460,10,20
+7032,Carnation,Bunch,505,60,100
+7033,Dutch Rose,Bunch,3182,60,100
+7035,Portia Tree,Per Piece,2953,8,12
+7036,Hibiscus,Per Hundred,161,8,12
+7038,Lilium,Bunch,107,400,600
+7039,Orchid,Bunch,19,300,450
+7040,Anthurium,Bunch,46,80,120
+7041,Grass,Bunch,1721,10,20
+7042,Leaf,Bunch,2723,20,30
+1001,Onion,Quintal,8322,700,1700
+1002,Potato,Quintal,7959,800,2000
+1003,Garlic,Quintal,1285,4000,10000
+1004,Ginger,Quintal,350,1300,2600
+2001,Ladyfinger,Quintal,224,1200,4500
+2002,Cluster Beans,Quintal,168,2500,6000
+2003,Tomato,Quintal,2028,500,1100
+2004,Peas,Quintal,271,3000,5000
+2005,Ridge Gourd,Quintal,245,3000,6000
+2006,Tinda,Quintal,37,1500,4000
+2007,Green Chilli,Quintal,609,3000,5000
+2008,Bottle Gourd,Quintal,107,600,1600
+2010,Cucumber,Quintal,624,1000,1600
+2011,Bitter Gourd,Quintal,108,2000,3000
+2012,Yam,Quintal,244,600,1500
+2013,Carrot,Quintal,960,1000,2000
+2014,Snake Gourd,Quintal,15,2000,4000
+2015,Pointed Gourd,Quintal,7,1500,2000
+2016,Cauliflower,Quintal,828,300,1000
+2017,Cabbage,Quintal,555,300,800
+2018,Brinjal,Quintal,279,1000,3000
+2019,Pumpkin,Quintal,269,1000,2500
+2020,Elephant Foot Yam,Quintal,5,1500,3000
+2021,Ivy Gourd,Quintal,27,1500,3000
+2022,Beetroot,Quintal,200,500,1500
+2023,Ash Gourd,Quintal,100,600,2000
+2024,Parwal,Quintal,4,3000,5000
+2026,Hyacinth Beans,Quintal,25,2500,5000
+2027,Drumstick,Quintal,151,1000,4000
+2028,Raw Mango,Quintal,302,2500,5000
+2029,Chow Chow,Quintal,13,500,3000
+2032,Amaranth Leaves,Quintal,36,1500,3000
+2033,Taro,Quintal,153,2000,3000
+2035,Pointed Gourd,Quintal,20,3000,5000
+2036,Zucchini,Quintal,8,1500,3000
+2037,Curry Leaves,Quintal,46,2500,5000
+2039,Tindora,Quintal,5,1000,3000
+2040,Colocasia,Quintal,11,1600,3000
+3023,Red and Yellow Pumpkin,Quintal,17,3500,5000
+3024,Basil,Quintal,1,3500,4000
+3025,Broccoli,Quintal,32,1500,4000
+3028,Chinese Cabbage,Quintal,1,2000,2500
+3029,Red Cabbage,Quintal,1,1500,2000
+3030,Avocado,Quintal,11,6000,7000
+3031,Baby Corn,Quintal,3,4500,5000
+3032,Zucchini,Quintal,10,1500,2000
+3034,Lettuce,Quintal,2,500,2500
+3035,Celery,Quintal,4,2000,6000
+3036,Mushroom,Quintal,6,10000,14000
+3037,Lotus Root,Quintal,1,4500,5000
+3041,Chinese Cucumber,Quintal,10,900,1000
+3042,Chinese Garlic,Quintal,2,5000,8000
+3001,Coriander,Per Hundred,149410,400,1200
+3002,Fenugreek,Per Hundred,70665,500,1000
+3003,Dill,Per Hundred,11250,400,800
+3004,Spring Onion,Per Hundred,12910,500,1000
+3005,Spinach,Per Hundred,12700,400,700
+3006,Radish,Per Hundred,1815,500,1500
+3007,Amaranth Leaves,Per Hundred,3900,500,700
+3008,Mustard,Per Hundred,100,400,600
+3009,Amaranth,Per Hundred,2050,400,800
+3011,Mint,Per Hundred,19700,200,500
+3014,Chia Seeds,Per Hundred,150,500,1000
+3016,Chia,Per Hundred,1800,400,1000
+3022,Iceberg Lettuce,Quintal,8,1500,3000
+4001,Lemon,Quintal,178,500,6000
+4002,Guava,Quintal,256,1500,5000
+4005,Jackfruit,Quintal,24,1000,4000
+4007,Pear,Quintal,75,5500,7500
+4023,Plum,Quintal,5,5000,15000
+4027,Pomegranate,Quintal,5,2000,7000
+4034,Jamun,Quintal,715,4000,9000
+4038,Pineapple,Quintal,183,3300,6600
+4041,Custard Apple,Quintal,1,3000,7000
+4044,Fig,Quintal,35,5000,10000
+4049,Strawberry,Quintal,21,10000,15000
+4051,Jujube,Quintal,1,1000,3000
+4054,Sapodilla,Quintal,257,2000,5000
+4059,Pomegranate - No.1,Quintal,251,2500,15000
+4063,Apple - Shimla,Quintal,523,3000,14000
+4074,Karonda,Quintal,1482,500,1000
+4081,Amla,Quintal,3,2500,3000
+4086,Banana,Quintal,11,500,2500
+4088,Sweet Lime,Quintal,376,3000,6000
+4102,Papaya,Quintal,316,700,2000
+4142,Grapes - Tasgaon,Quintal,826,2500,12500
+5003,Rice - Basmati,Quintal,40,7000,12000
+5004,Rice - Basmati Dubar,Quintal,778,5500,6500
+5005,Rice - Mogara,Quintal,550,4400,6200
+5006,Rice Flakes,Quintal,621,3800,4200
+5007,Rice - Ambemohar,Quintal,45,6400,8400
+5008,Rice - Kolam,Quintal,670,4000,7000
+5010,Rice - Dass,Quintal,678,3300,3700
+5011,Rice - Ukada,Quintal,411,3500,4500
+5012,Rice - Masuri,Quintal,418,3500,4000
+5013,Rice - Indrayani,Quintal,106,4500,5800
+5015,Wheat - Lokwan,Quintal,2582,3000,4000
+5017,Wheat - Gujarat Vinat,Quintal,663,3500,4300
+5018,Wheat - Gujarat Tukdi,Quintal,452,3700,4500
+5019,Wheat - Sinhor,Quintal,435,4000,5600
+5021,Sorghum - Maldandi No.1,Quintal,740,4500,5200
+5022,Sorghum - Maldandi No.2,Quintal,422,4300,4600
+5024,Sorghum - Vasant No.9,Quintal,547,4200,4500
+5025,Sorghum - Duri,Quintal,416,4100,4600
+5026,Pearl Millet - Gowran,Quintal,550,2800,2900
+5027,Pearl Millet - Hybrid,Quintal,379,2900,3100
+5028,Pearl Millet - Mahico No.910,Quintal,392,3100,3300
+5030,Peas - Green,Quintal,43,10100,11500
+5031,Peas - White,Quintal,40,4400,5400
+5033,Lentil,Quintal,42,6800,7400
+5035,Coriander - Indore,Quintal,2,10000,14000
+5036,Coriander - Gowran,Quintal,4,9000,10000
+5037,Chickpeas - Chafa,Quintal,41,7400,8200
+5038,Chickpeas - Hybrid,Quintal,38,7000,8000
+5041,Black Gram,Quintal,5,8800,9800
+5043,Maize - Red,Quintal,4,2300,2600
+5045,Tamarind - Old,Quintal,3,6500,7500
+5046,Tamarind - New,Quintal,4,9500,10500
+5047,Peanut - Gunguru,Quintal,776,9500,9800
+5048,Peanut - Jara,Quintal,325,9600,10200
+5049,Peanut - Spanish,Quintal,427,10600,11800
+5050,Turmeric - Rajapuri,Quintal,3,15000,20000
+5054,Green Gram,Quintal,42,9000,9800
+5057,Horse Gram,Quintal,7,5300,6600
+5058,Cowpea,Quintal,5,10000,12300
+5061,Finger Millet,Quintal,5,4500,5000
+5063,Jaggery - Type 1,Quintal,325,3801,3975
+5064,Jaggery - Type 2,Quintal,182,3675,3775
+5065,Red Jaggery,Quintal,215,3515,3651
+5067,Box Jaggery,Quintal,263,3900,4400
+5068,Red Chilli - Byadgi,Quintal,12,14000,19000
+5069,Red Chilli - Guntur,Quintal,11,13000,15000
+6009,Dates,10 Kg,1520,300,1500
+6011,Grated Coconut,25 Kg,1649,2850,2970
+6018,Amaranth,50 Kg,1267,6600,7400
+7001,Jasmine,1 Kg,810,300,450
+7002,Marigold,1 Kg,215,200,300
+7003,Jasmine,1 Kg,8,300,450
+7005,Tube Rose,1 Kg,3764,30,40
+7006,Marigold,1 Kg,27602,10,20
+7007,Holy Basil,1 Kg,1804,10,30
+7009,Lightning,1 Kg,2779,20,30
+7011,White Chrysanthemum,1 Kg,956,30,50
+7012,Yellow Chrysanthemum,1 Kg,536,40,60
+7013,Aster,Per Hundred,3081,6,10
+7014,Galanda,Per Hundred,692,6,10
+7015,Lily,Bundle,2106,10,14
+7016,Rose,Bunch,4817,8,12
+7018,Tube Rose Stick,Bunch,439,12,20
+7020,Golden D.J.,Bunch,926,10,20
+7021,Gladiolus Plain,Bunch,341,20,30
+7022,Gladiolus Colored,Bunch,429,30,50
+7027,Tats,Bunch,88,10,20
+7028,Gypsy,Bunch,283,100,200
+7031,Gerbera,Bunch,5684,10,20
+7032,Carnation,Bunch,644,50,100
+7033,Dutch Rose,Bunch,4056,50,80
+7035,Portia Tree,Per Piece,3764,4,6
+7036,Hibiscus,Per Hundred,205,4,6
+7038,Lilium,Bunch,137,300,500
+7039,Orchid,Bunch,24,200,300
+7040,Anthurium,Bunch,59,60,100
+7041,Grass,Bunch,2194,10,20
+7042,Leaf,Bunch,3471,20,30
