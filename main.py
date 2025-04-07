@@ -51,7 +51,7 @@ def generateData(link):
         writer = csv.writer(file)
 
         if is_empty:
-            writer.writerow(["Code No", "Item", "Quantity", "Arrival", "Min", "Max"])
+            writer.writerow(["Code No", "Item", "Unit", "Quantity", "Min", "Max"])
 
         for table in tables:
             rows = table.find_all("tr")
