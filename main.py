@@ -6,6 +6,7 @@ import time
 import psycopg2
 from datetime import datetime
 from dotenv import load_dotenv
+import tempfile
 
 load_dotenv()
 
@@ -305,11 +306,6 @@ item_marathi_to_english  = {
     'विड्याची पाने': 'Betel Leaves'
 }
 
-
-
-
-
-
 def get_links(BASE_URL,start,LOOKUP_COUNT):
 
     driver = webdriver.Chrome()
@@ -403,7 +399,7 @@ def init():
 
     DATABASE_URL = os.environ.get('DATABASE_URL')
     BASE_URL = "http://www.puneapmc.org/"
-    LOOKUP_COUNT = 1
+    LOOKUP_COUNT = 20
     START_COUNT = 0
 
 
@@ -415,6 +411,8 @@ def init():
         cur = conn.cursor()
 
         link_objs = get_links(BASE_URL,START_COUNT,LOOKUP_COUNT)
+
+        print(link_objs)
 
         for idx, link_obj in enumerate(link_objs):
             print(idx)
