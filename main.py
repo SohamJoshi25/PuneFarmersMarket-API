@@ -403,7 +403,8 @@ def init():
 
     DATABASE_URL = os.environ.get('DATABASE_URL')
     BASE_URL = "http://www.puneapmc.org/"
-    LOOKUP_COUNT = 450
+    LOOKUP_COUNT = 1
+    START_COUNT = 0
 
 
     if DATABASE_URL == None:
@@ -413,7 +414,7 @@ def init():
         conn = psycopg2.connect(DATABASE_URL)
         cur = conn.cursor()
 
-        link_objs = get_links(BASE_URL,100,LOOKUP_COUNT)
+        link_objs = get_links(BASE_URL,START_COUNT,LOOKUP_COUNT)
 
         for idx, link_obj in enumerate(link_objs):
             print(idx)
