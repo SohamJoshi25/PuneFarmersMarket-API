@@ -1,0 +1,13 @@
+name: Daily Refresh POST
+
+on:
+  schedule:
+    - cron: '30 6 * * *'  # 12:00 PM IST = 06:30 UTC
+
+jobs:
+  post-refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send POST request to refresh endpoint
+        run: |
+          curl -X POST https://localfarmermarket.onrender.com/rates/refresh
