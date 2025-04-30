@@ -310,7 +310,7 @@ item_marathi_to_english  = {
 
 
 
-def get_links(BASE_URL,LOOKUP_COUNT):
+def get_links(BASE_URL,start,LOOKUP_COUNT):
 
     driver = webdriver.Chrome()
 
@@ -326,6 +326,9 @@ def get_links(BASE_URL,LOOKUP_COUNT):
     links = []
 
     for idx,li in enumerate(lis):
+
+        if idx < start :
+            continue
 
         if len(links) == LOOKUP_COUNT:
             break
@@ -406,19 +409,17 @@ def init():
     if DATABASE_URL == None:
        raise RuntimeError("DATABASE_URL not set in environment")
     else:
-        print(DATABASE_URL)
 
         conn = psycopg2.connect(DATABASE_URL)
         cur = conn.cursor()
 
-        link_objs = get_links(BASE_URL,LOOKUP_COUNT)
+        link_objs = get_links(BASE_URL,100,LOOKUP_COUNT)
 
         for idx, link_obj in enumerate(link_objs):
             print(idx)
             generateData(link_obj['link'],cur,link_obj['date'])
             conn.commit()
         
-
         print("Ran Successfully")
         cur.close()
         conn.close()
