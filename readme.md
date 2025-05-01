@@ -81,12 +81,12 @@ https://localfarmermarket.onrender.com/
 
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/SohamJoshi25/dns-server/refs/heads/main/docs/images/image.png" alt="Farmer market Portal" width="500">
+<img src="https://raw.githubusercontent.com/SohamJoshi25/FarmersMarket-WebScraper/refs/heads/main/public/image.png" alt="Farmer market Portal" width="500">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/SohamJoshi25/dns-server/refs/heads/main/docs/images/db.png" alt="Farmer Market Prices" width="500">
+<img src="https://raw.githubusercontent.com/SohamJoshi25/FarmersMarket-WebScraper/refs/heads/main/public/market1.png" alt="Farmer Market Prices" width="500">
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/SohamJoshi25/dns-server/refs/heads/main/docs/images/lookup.png" alt="Postman" width="500">
+<img src="https://raw.githubusercontent.com/SohamJoshi25/FarmersMarket-WebScraper/refs/heads/main/public/market2.png" alt="Postman" width="500">
 <br>
 <br>
