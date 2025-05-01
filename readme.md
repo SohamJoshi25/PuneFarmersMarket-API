@@ -21,11 +21,11 @@ https://localfarmermarket.onrender.com/
 
 ### Example Endpoints
 
-| Endpoint              | Description                                   |
-|-----------------------|-----------------------------------------------|
-| `/docs`               | Interactive API docs (FasiAPI selfmade)       |
-| `/rates   `           | Get all market products with price & quantity |
-| `/refresh`            | Manually trigger a data refresh               |
+| Endpoint              | Description                                                      |
+|-----------------------|------------------------------------------------------------------|
+| `/docs`               | Interactive API docs (FasiAPI selfmade)                          |
+| `/rates   `           | Get all market products with price & quantity                    |
+| `/refresh`            | Manually trigger a data refresh (Used for Cron Job)              |
 
 ### Sample Usage
 
