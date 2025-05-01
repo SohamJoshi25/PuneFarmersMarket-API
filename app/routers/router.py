@@ -50,7 +50,15 @@ async def refresh():
     link,date,shouldUpdate = await getLink(cursor,connection)
 
     if(shouldUpdate):
-        scrapeData(link,cursor,date)
+
+        error = scrapeData(link,cursor,date)
+        
+        if(error):
+            return {"message":"Data not available for today"}
+        else:
+            connection.commit()
+    else:
+        return {"message":"Database already updated for today"}
 
     connection.commit()
     cursor.close()

@@ -8,6 +8,9 @@ def scrapeData(link,cursor,date):
     soup = BeautifulSoup(r.content, 'html.parser')
     tables = soup.find_all("table")
 
+    if len(tables) == 0:
+        return "Database Not Updated"
+
     for table in tables:
 
         rows = table.find_all("tr")

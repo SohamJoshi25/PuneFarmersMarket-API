@@ -15,7 +15,6 @@ async def getLink(cursor, connection):
             "INSERT INTO rateMaster (rate, date) VALUES (%s, %s);",
             (rate, date)
         )
-        connection.commit()
 
         return f"http://www.puneapmc.org/history.aspx?id=Rates{rate}", date, True
     
