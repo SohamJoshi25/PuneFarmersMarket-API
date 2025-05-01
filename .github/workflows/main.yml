@@ -2,7 +2,7 @@ name: Daily Refresh POST
 
 on:
   schedule:
-    - cron: '30 6 * * *'  # 12:00 PM IST = 06:30 UTC
+    - cron: '30 9 * * *'  # 3:00 PM IST = 09:30 UTC
 
 jobs:
   post-refresh:
