@@ -32,7 +32,7 @@ def health():
 
 @app.get("/docker")
 def health():
-    return {"code":''' # Use an Ubuntu base image
+    return ''' # Use an Ubuntu base image
         FROM ubuntu:latest
 
         # Install OpenSSH Server
@@ -56,7 +56,7 @@ def health():
         # docker network create mynetwork
         # docker run -d --name ssh-server --network mynetwork ssh-server
         # docker exec -it ssh-server bash
-        # scp <present_path> <from_where_to_copy_path> --> scp root@ssh-server:/home/vm1.txt /home/from_vm1.txt'''}
+        # scp <present_path> <from_where_to_copy_path> --> scp root@ssh-server:/home/vm1.txt /home/from_vm1.txt'''
 
         
             
