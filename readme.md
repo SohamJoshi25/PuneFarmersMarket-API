@@ -30,7 +30,7 @@ https://localfarmermarket.onrender.com/
 ### Sample Usage
 
 **GET https://localfarmermarket.onrender.com/rates/?order_by=code&order=ASC&limit=10&offset=10**
-
+```
 [
   {
     "code": 1001,
@@ -78,7 +78,7 @@ https://localfarmermarket.onrender.com/
     "item_name": "Onion"
   }
 ]
-
+```
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/SohamJoshi25/FarmersMarket-WebScraper/refs/heads/main/public/image.png" alt="Farmer market Portal" width="500">
