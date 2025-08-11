@@ -1,4 +1,4 @@
-# FarmersMarket-WebScraper
+# FarmersMarket WebScraper
 
 A simple, daily-updated API that scrapes local farmer market product prices and quantities from a government website and exposes the data via a REST API using FastAPI.
 
